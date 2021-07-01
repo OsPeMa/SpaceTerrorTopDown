@@ -897,3 +897,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.01-17.27.24:735][355]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.01-17.27.24:735][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.07.01-17.27.24:735][355]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.01-17.29.54:629][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.01-17.29.55:775][243]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.01-17.29.57:850][243]LogRenderer: Reallocating scene render targets to support 1260x784 Format 10 NumSamples 1 (Frame:1).
+[2021.07.01-17.30.20:462][403]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.01-17.31.36:675][659]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.01-17.31.41:736][901]LogSlate: Took 0.026100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.01-17.34.27:462][ 86]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.01-17.34.27:592][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.07.01-17.34.27:699][ 86]LogSlate: Took 0.077896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.01-17.45.05:357][323]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.01-17.45.05:406][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.01-17.45.08:445][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Masters/BP_ItemMaster" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset" SILENT=true
+[2021.07.01-17.45.08:453][492]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemMaster8EF66EF64CC89FB6B30932BAA7C9CBC2.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset'
+[2021.07.01-17.45.08:469][492]AssetCheck: New page: Asset Save: BP_ItemMaster
+[2021.07.01-17.45.08:469][492]LogContentValidation: Display: Validating Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.01-17.45.16:726][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Masters/BP_ItemMaster" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset" SILENT=true
+[2021.07.01-17.45.16:731][787]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemMaster6BE46B3E4E16AC6DD037D98791BC09C3.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset'
+[2021.07.01-17.45.16:745][787]AssetCheck: New page: Asset Save: BP_ItemMaster
+[2021.07.01-17.45.16:745][787]LogContentValidation: Display: Validating Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.01-17.45.21:403][ 62]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.01-17.45.21:409][ 62]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.01-17.45.26:002][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.01-17.45.26:070][323]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap7376273C460BAECD8332AA96F400B286.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.01-17.45.26:147][323]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltData3981EEF946BAA23AA5D477823CD87250.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.01-17.45.26:161][323]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.01-17.45.26:161][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.01-17.45.26:161][323]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.01-17.45.34:284][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.01-17.45.34:302][799]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap7328285E4D1756C8B4C2FC9DBD04AA5F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.01-17.45.34:381][799]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltData192667CF45C8229AFB5623ABE4452B8E.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.01-17.45.34:396][799]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.01-17.45.34:396][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.01-17.45.34:396][799]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
