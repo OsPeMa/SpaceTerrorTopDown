@@ -5485,3 +5485,196 @@ Make sure 'AnimBP_TestCharacter_C' has been compiled for  Set Speed
 [2021.07.03-16.57.43:959][684]LogContentValidation: Display: Validating Skeleton /Game/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR_Skeleton.Ch17_nonPBR_Skeleton
 [2021.07.03-16.58.51:753][397]BlueprintLog: New page: Compile TopDownCharacter
 [2021.07.03-16.58.51:868][397]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.07.03-16.59.24:911][953]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2021.07.03-16.59.24:913][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.061
+[2021.07.03-16.59.24:913][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter] ([1] browsable assets)...
+[2021.07.03-16.59.24:937][953]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.AnimBP_TestCharacter]
+[2021.07.03-16.59.24:938][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter]
+[2021.07.03-16.59.25:036][953]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/AnimBP_TestCharacter_Auto0EECCE1834FF548382B6A66937A23C1B1.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter_Auto0.uasset'
+[2021.07.03-16.59.25:037][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2021.07.03-16.59.25:061][953]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2021.07.03-16.59.25:061][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter]
+[2021.07.03-16.59.25:131][953]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter_Auto02BB865EA4540C032CE1CABB5FD588AE9.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownCharacter_Auto0.uasset'
+[2021.07.03-16.59.25:132][953]LogFileHelpers: Auto-saving content packages took 0.218
+[2021.07.03-17.00.21:809][991]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Ch17_nonPBR_Skeleton11D42F1E45315D4FDAC42BB7F65D5407.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR_Skeleton.uasset'
+[2021.07.03-17.00.21:827][991]AssetCheck: New page: Asset Save: Ch17_nonPBR_Skeleton
+[2021.07.03-17.00.21:828][991]LogContentValidation: Display: Validating Skeleton /Game/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR_Skeleton.Ch17_nonPBR_Skeleton
+[2021.07.03-17.00.24:048][111]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter8B4EC4E54B7B0E936F7D0B808986EA77.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.03-17.00.24:066][111]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.03-17.00.24:066][111]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.03-17.00.27:271][290]BlueprintLog: New page: Compile AnimBP_TestCharacter
+[2021.07.03-17.00.27:408][290]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2021.07.03-17.00.28:049][310]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/AnimBP_TestCharacter560716EC445DB61DFAE8298630ADF524.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.uasset'
+[2021.07.03-17.00.28:067][310]AssetCheck: New page: Asset Save: AnimBP_TestCharacter
+[2021.07.03-17.00.28:067][310]LogContentValidation: Display: Validating AnimBlueprint /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.AnimBP_TestCharacter
+[2021.07.03-17.01.13:548][571]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch17_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.07.03-17.01.13:549][571]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch17_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.07.03-17.01.13:549][571]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Ch17_nonPBR_Skeleton, removing AnimBP from actor.
+[2021.07.03-17.01.18:241][811]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.03-17.01.28:562][371]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.01.28:746][371]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2021.07.03-17.02.53:731][417]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.02.53:910][417]LogUObjectHash: Compacting FUObjectHashTables data took  11.23ms
+[2021.07.03-17.04.17:150][388]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.04.17:273][388]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2021.07.03-17.05.09:960][411]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.05.10:097][411]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2021.07.03-17.05.53:969][941]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterF2199E7D4F199BFCFFCE6A9D82C9A1AE.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.03-17.05.53:994][941]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.03-17.05.53:994][941]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.03-17.05.55:534][ 18]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter7E3C283F49E605F70CC394B8AF5379C5.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.03-17.05.55:555][ 18]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.03-17.05.55:555][ 18]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.03-17.06.10:949][927]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.06.11:070][927]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2021.07.03-17.06.19:514][412]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.03-17.06.19:743][412]LogUObjectHash: Compacting FUObjectHashTables data took  15.42ms
+[2021.07.03-17.07.01:624][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.03-17.07.33:135][340]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.03-17.07.33:526][340]LogUObjectHash: Compacting FUObjectHashTables data took  12.07ms
+[2021.07.03-17.08.49:360][425]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.03-17.08.49:870][425]LogUObjectHash: Compacting FUObjectHashTables data took  11.00ms
+[2021.07.03-17.09.43:179][978]BlueprintLog: New page: Compile BP_ItemPickUpWeaponBase
+[2021.07.03-17.09.43:398][978]LogUObjectHash: Compacting FUObjectHashTables data took  13.13ms
+[2021.07.03-17.11.43:982][206]LogUObjectHash: Compacting FUObjectHashTables data took  12.95ms
+[2021.07.03-17.11.43:984][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.133
+[2021.07.03-17.11.43:984][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase] ([1] browsable assets)...
+[2021.07.03-17.11.43:984][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase]
+[2021.07.03-17.11.43:997][206]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemPickUpWeaponBase_Auto1854374DF41740C552B006DA157DF77A6.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase_Auto1.uasset'
+[2021.07.03-17.11.43:998][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Masters/BP_ItemMaster] ([1] browsable assets)...
+[2021.07.03-17.11.43:998][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/BP_ItemMaster]
+[2021.07.03-17.11.44:052][206]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemMaster_Auto163C5316242F6C48664A11DB1A945909A.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/BP_ItemMaster_Auto1.uasset'
+[2021.07.03-17.11.44:110][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal] ([1] browsable assets)...
+[2021.07.03-17.11.44:110][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal]
+[2021.07.03-17.11.44:119][206]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_Item_Weapon_KaVal_Auto1625090DE44618534E55A4FBF38A95E38.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal_Auto1.uasset'
+[2021.07.03-17.11.44:133][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2021.07.03-17.11.44:168][206]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2021.07.03-17.11.44:169][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter]
+[2021.07.03-17.11.44:243][206]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter_Auto18B18EF594715A25FA9D652886BDA4DE7.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2021.07.03-17.11.44:244][206]LogFileHelpers: Auto-saving content packages took 0.260
+[2021.07.03-17.13.01:881][353]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.03-17.13.02:308][353]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2021.07.03-17.13.06:431][583]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2021.07.03-17.13.06:474][583]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemPickUpWeaponBase403B90584EAA652A61F29A9E6F2D83AD.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase.uasset'
+[2021.07.03-17.13.06:475][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Masters/BP_ItemMaster" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset" SILENT=true
+[2021.07.03-17.13.06:483][583]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemMaster054CACAC4DA90FA465178CB6410D3A96.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset'
+[2021.07.03-17.13.06:527][583]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_Item_Weapon_KaVal608A1007459B57B6093A7398E28D3F07.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal.uasset'
+[2021.07.03-17.13.06:671][583]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Ch17_nonPBRFFC394424200EEB08B502B8B519B25B7.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR.uasset'
+[2021.07.03-17.13.06:752][583]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterCB3E0D42497DA4B2325E74A2DD6FFF67.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.03-17.13.06:830][583]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.13.06:830][583]LogContentValidation: Display: Validating Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.03-17.13.06:830][583]LogContentValidation: Display: Validating Blueprint /Game/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase.BP_ItemPickUpWeaponBase
+[2021.07.03-17.13.06:830][583]LogContentValidation: Display: Validating SkeletalMesh /Game/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR.Ch17_nonPBR
+[2021.07.03-17.13.06:830][583]LogContentValidation: Display: Validating Blueprint /Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal.BP_Item_Weapon_KaVal
+[2021.07.03-17.13.06:830][583]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.03-17.13.08:047][642]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_KA_Val_X)
+[2021.07.03-17.14.47:636][826]BlueprintLog: New page: Compile BP_Item_Weapon_KaVal
+[2021.07.03-17.14.47:840][826]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.07.03-17.16.55:396][381]BlueprintLog: New page: Compile BP_ItemMaster
+[2021.07.03-17.16.55:610][381]LogUObjectHash: Compacting FUObjectHashTables data took  16.86ms
+[2021.07.03-17.16.56:769][424]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2021.07.03-17.16.56:811][424]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemPickUpWeaponBase531DD5A945BC2706CD1ECFB6E3720938.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase.uasset'
+[2021.07.03-17.16.56:812][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Masters/BP_ItemMaster" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset" SILENT=true
+[2021.07.03-17.16.56:822][424]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ItemMasterB9C181F440856AE9A163BE97864ADC61.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ItemMaster.uasset'
+[2021.07.03-17.16.56:829][424]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_Item_Weapon_KaValA0E8E49949052DC36183B683386C26AF.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal.uasset'
+[2021.07.03-17.16.56:854][424]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.16.56:854][424]LogContentValidation: Display: Validating Blueprint /Game/Masters/BP_ItemMaster.BP_ItemMaster
+[2021.07.03-17.16.56:854][424]LogContentValidation: Display: Validating Blueprint /Game/Masters/ItemChild/Weapons/BP_ItemPickUpWeaponBase.BP_ItemPickUpWeaponBase
+[2021.07.03-17.16.56:855][424]LogContentValidation: Display: Validating Blueprint /Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Weapon_KaVal.BP_Item_Weapon_KaVal
+[2021.07.03-17.24.54:552][653]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.03-17.25.05:163][264]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.03-17.25.22:398][267]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.03-17.25.29:127][670]LogContentBrowser: Attempting asset rename: Masters -> Masters
+[2021.07.03-17.25.31:248][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.07.03-17.25.31:277][790]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap442B2A0E42CEE642C53BD792670D4A53.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.03-17.25.31:376][790]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltData2FC8F7CA4629728C8EDF68A988ECF625.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.03-17.25.31:411][790]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.25.31:411][790]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.03-17.25.31:411][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.03-17.26.33:552][497]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.03-17.26.33:574][497]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.03-17.26.41:779][990]LogContentBrowser: Attempting asset rename: NewFolder -> _Interfaces
+[2021.07.03-17.26.41:841][990]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.03-17.27.00:913][124]LogContentBrowser: Attempting asset rename: _Interfaces -> _Interfaces
+[2021.07.03-17.27.08:877][586]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.03-17.27.34:478][ 62]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2021.07.03-17.27.34:496][ 62]LogContentBrowser: Creating deferred item: NewInterface
+[2021.07.03-17.27.47:951][865]LogContentBrowser: Attempting asset rename: NewInterface -> INT_TopDownChar
+[2021.07.03-17.27.48:008][865]LogContentBrowser: End creating deferred item NewInterface
+[2021.07.03-17.27.48:391][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Interfaces/INT_TopDownChar.INT_TopDownChar
+[2021.07.03-17.28.15:303][518]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2021.07.03-17.28.15:320][518]LogContentBrowser: Creating deferred item: NewInterface
+[2021.07.03-17.28.29:873][385]LogContentBrowser: Attempting asset rename: NewInterface -> INT_PlayerControler
+[2021.07.03-17.28.29:877][385]LogContentBrowser: End creating deferred item NewInterface
+[2021.07.03-17.28.36:536][777]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.03-17.28.36:569][777]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.03-17.28.40:357][  5]LogContentBrowser: Attempting asset rename: NewFolder -> _Main
+[2021.07.03-17.28.40:358][  5]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.03-17.28.43:054][151]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2021.07.03-17.28.43:146][151]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap2F10235445B1E1D7206BEDA66244E0E1.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.03-17.28.43:260][151]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltData136F73854AB2C441B5C661B933C1BB27.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.03-17.28.43:279][151]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.28.43:279][151]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.03-17.28.43:279][151]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.03-17.28.52:996][543]LogMetaData: Removing '/Game/_Main/_Interfaces/INT_PlayerControler.SKEL_INT_PlayerControler_C' ref from Metadata '/Game/_Interfaces/INT_PlayerControler.PackageMetaData'
+[2021.07.03-17.28.52:996][543]LogMetaData: Removing '/Game/_Main/_Interfaces/INT_PlayerControler.INT_PlayerControler_C' ref from Metadata '/Game/_Interfaces/INT_PlayerControler.PackageMetaData'
+[2021.07.03-17.28.53:033][543]LogMetaData: Removing '/Game/_Main/_Interfaces/INT_TopDownChar.SKEL_INT_TopDownChar_C' ref from Metadata '/Game/_Interfaces/INT_TopDownChar.PackageMetaData'
+[2021.07.03-17.28.53:033][543]LogMetaData: Removing '/Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar_C' ref from Metadata '/Game/_Interfaces/INT_TopDownChar.PackageMetaData'
+[2021.07.03-17.28.53:033][543]LogMetaData: Removing '/Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar:NewFunction_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Interfaces/INT_TopDownChar.PackageMetaData'
+[2021.07.03-17.28.53:130][543]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/INT_PlayerControlerDC04AB774334932F273D57A065A438FF.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_PlayerControler.uasset'
+[2021.07.03-17.28.53:130][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/_Interfaces/INT_TopDownChar" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset" SILENT=true
+[2021.07.03-17.28.53:132][543]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/INT_TopDownChar20FBA52D408041C82D5D8DAC2582E133.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset'
+[2021.07.03-17.28.53:725][543]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.07.03-17.28.53:909][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.07.03-17.28.54:092][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.07.03-17.28.54:303][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.03-17.28.54:580][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.28.54:580][543]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Interfaces/INT_PlayerControler.INT_PlayerControler
+[2021.07.03-17.28.54:580][543]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar
+[2021.07.03-17.29.05:882][181]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.03-17.29.05:914][181]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.03-17.29.12:669][587]LogContentBrowser: Attempting asset rename: NewFolder -> _Controller
+[2021.07.03-17.29.12:670][587]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.03-17.29.50:371][ 29]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.03-17.29.51:581][ 29]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.03-17.29.51:588][ 29]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.03-17.29.51:607][ 29]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.03-17.30.07:320][962]LogContentBrowser: Attempting asset rename: NewBlueprint -> Controller_Player
+[2021.07.03-17.30.07:425][962]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.03-17.30.10:754][150]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Controller_PlayerAE6870294A964607B0DF22ABED4AEE49.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Controller/Controller_Player.uasset'
+[2021.07.03-17.30.10:808][150]AssetCheck: New page: Asset Save: Controller_Player
+[2021.07.03-17.30.10:808][150]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Controller/Controller_Player.Controller_Player
+[2021.07.03-17.30.38:845][104]LogContentBrowser: Attempting asset rename: Controller_Player -> Controller_TopDownChar
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.Controller_TopDownChar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.SKEL_Controller_TopDownChar_C:UserConstructionScript' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.SKEL_Controller_TopDownChar_C' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.Controller_TopDownChar_C' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.Controller_TopDownChar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:863][104]LogMetaData: Removing '/Game/_Main/_Controller/Controller_TopDownChar.Controller_TopDownChar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/_Controller/Controller_Player.PackageMetaData'
+[2021.07.03-17.30.38:952][104]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Controller_TopDownCharDA58778A4132748FF9C9189847BE3069.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Controller/Controller_TopDownChar.uasset'
+[2021.07.03-17.30.39:065][104]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/_Main/_Controller/Controller_Player.Controller_Player'
+[2021.07.03-17.30.39:157][104]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2021.07.03-17.30.39:471][104]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.07.03-17.30.39:543][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.07.03-17.30.39:694][104]AssetCheck: New page: Asset Save: Controller_TopDownChar
+[2021.07.03-17.30.39:694][104]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Controller/Controller_TopDownChar.Controller_TopDownChar
+[2021.07.03-17.35.05:282][779]BlueprintLog: New page: Compile INT_TopDownChar
+[2021.07.03-17.35.05:355][779]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2021.07.03-17.36.36:837][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/_Interfaces/INT_PlayerControler.INT_PlayerControler
+[2021.07.03-17.38.46:097][750]BlueprintLog: New page: Compile INT_PlayerControler
+[2021.07.03-17.38.46:165][750]LogUObjectHash: Compacting FUObjectHashTables data took   8.96ms
+[2021.07.03-17.38.49:169][912]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/INT_PlayerControlerC26DD5CE45B4ABDEBBFAA6AFE4BD023C.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_PlayerControler.uasset'
+[2021.07.03-17.38.49:232][912]AssetCheck: New page: Asset Save: INT_PlayerControler
+[2021.07.03-17.38.49:232][912]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Interfaces/INT_PlayerControler.INT_PlayerControler
+[2021.07.03-17.38.51:708][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2021.07.03-17.38.51:727][ 45]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMapB6AA5E0E4070F1F6F1CEEEA25EC253CA.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.03-17.38.51:826][ 45]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltDataAF521EA14A85BEB35F66D1ACA3ED2CB6.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.03-17.38.51:874][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.38.51:874][ 45]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.03-17.38.51:874][ 45]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.03-17.38.53:422][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.07.03-17.38.53:443][121]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap28EB8DD149469C5E2149F992011A042F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.03-17.38.53:538][121]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_BuiltData33BE686E429172811A1774960E41BAD0.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.03-17.38.53:557][121]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-17.38.53:557][121]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.03-17.38.53:557][121]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
