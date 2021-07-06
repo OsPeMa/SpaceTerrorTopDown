@@ -833,3 +833,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-21.22.16:657][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter]
 [2021.07.06-21.22.16:727][124]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter_Auto3DEA311694014D771414AA68BA54FD56F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset'
 [2021.07.06-21.22.16:727][124]LogFileHelpers: Auto-saving content packages took 0.070
+[2021.07.06-21.27.40:076][787]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterAC4D7D8C412D89A55F17158BCC5C07D5.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.06-21.27.40:090][787]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.06-21.27.40:090][787]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.06-21.27.45:105][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.07.06-21.27.45:126][ 71]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMapF83ECA1D499B6733424A758F77640921.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.06-21.27.45:148][ 71]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.06-21.27.45:149][ 71]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
