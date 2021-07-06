@@ -793,43 +793,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-20.51.16:815][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.07.06-20.51.17:445][  1]LogAssetRegistry: Asset discovery search completed in 45.4422 seconds
 [2021.07.06-20.51.17:463][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
-[2021.07.06-20.51.17:806][  2]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.07.06-20.59.36:656][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
-[2021.07.06-20.59.36:879][981]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
-[2021.07.06-20.59.37:969][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/BP_ThrowMaster.BP_ThrowMaster
-[2021.07.06-20.59.38:314][981]LogSlate: Took 0.012070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2021.07.06-21.00.19:289][417]LogRenderer: Reallocating scene render targets to support 1260x784 Format 10 NumSamples 1 (Frame:1).
-[2021.07.06-21.00.25:919][804]LogSlate: Took 0.039883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2021.07.06-21.01.19:285][900]BlueprintLog: New page: Compile BP_ThrowMaster
-[2021.07.06-21.01.19:364][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
-[2021.07.06-21.01.19:480][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Masters/BP_ThrowMaster" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ThrowMaster.uasset" SILENT=true
-[2021.07.06-21.01.19:487][900]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_ThrowMaster633D86B64590614E503ED6B541B691E6.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/BP_ThrowMaster.uasset'
-[2021.07.06-21.01.19:502][900]AssetCheck: New page: Asset Save: BP_ThrowMaster
-[2021.07.06-21.01.19:502][900]LogContentValidation: Display: Validating Blueprint /Game/Masters/BP_ThrowMaster.BP_ThrowMaster
-[2021.07.06-21.01.19:529][900]LogSlate: Took 0.011796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2021.07.06-21.02.08:326][787]LogLinker: Warning: Failed to load '/Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Lantern': Can't find file.
-[2021.07.06-21.02.08:326][787]LogLinker: Warning: Failed to load '/Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Lantern': Can't find file.
-[2021.07.06-21.02.08:326][787]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/_CARPETAS_DE_DESARROLLO/Items/Oswaldo_y_Alfredo/BP_Item_Lantern.BP_Item_Lantern'
-[2021.07.06-21.02.15:434][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
-[2021.07.06-21.02.15:460][808]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_Auto16D9B6CCF4BCFBB55D1E17C98E8B414E6.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
-[2021.07.06-21.02.15:460][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.049
-[2021.07.06-21.02.15:460][808]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
-[2021.07.06-21.07.42:057][412]BlueprintLog: New page: Compile TopDownCharacter
-[2021.07.06-21.07.42:229][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
-[2021.07.06-21.07.42:483][412]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterB8AE53D54969B066215A6190BB92E755.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
-[2021.07.06-21.07.42:503][412]AssetCheck: New page: Asset Save: TopDownCharacter
-[2021.07.06-21.07.42:503][412]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
-[2021.07.06-21.12.16:158][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
-[2021.07.06-21.12.16:181][770]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_Auto268A0F7FA4FEA4DD56DD77A89628B2D57.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
-[2021.07.06-21.12.16:183][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.049
-[2021.07.06-21.12.16:183][770]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
-[2021.07.06-21.12.16:183][770]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
-[2021.07.06-21.12.16:183][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter]
-[2021.07.06-21.12.16:254][770]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter_Auto234D7174A447FB46E36FFC4A4979E20FF.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
-[2021.07.06-21.12.16:254][770]LogFileHelpers: Auto-saving content packages took 0.071
-[2021.07.06-21.22.16:656][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2021.07.06-21.22.16:657][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.024
-[2021.07.06-21.22.16:657][124]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
-[2021.07.06-21.22.16:657][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownCharacter]
-[2021.07.06-21.22.16:727][124]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter_Auto3DEA311694014D771414AA68BA54FD56F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset'
-[2021.07.06-21.22.16:727][124]LogFileHelpers: Auto-saving content packages took 0.070
+
