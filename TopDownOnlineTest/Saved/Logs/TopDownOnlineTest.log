@@ -28895,3 +28895,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-14.51.25:433][614]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap76CEE1D240CAB602B68316940B1E3A6C.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
 [2021.07.06-14.51.25:464][614]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2021.07.06-14.51.25:464][614]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.06-14.56.00:655][636]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.AnimBP_TestCharacter
+[2021.07.06-14.56.00:711][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-14.56.01:432][636]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.06-14.56.06:103][894]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/WeaponIdleWalk.WeaponIdleWalk
+[2021.07.06-14.56.06:106][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-14.56.06:511][894]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.06-14.56.08:058][983]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/WeaponIdleWalk72C27C574310F01CEE10B7BB01BB5EAC.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/WeaponIdleWalk.uasset'
+[2021.07.06-14.56.08:071][983]AssetCheck: New page: Asset Save: WeaponIdleWalk
+[2021.07.06-14.56.08:071][983]LogContentValidation: Display: Validating BlendSpace /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/WeaponIdleWalk.WeaponIdleWalk
+[2021.07.06-14.56.09:407][ 63]LogSlate: Window 'WeaponIdleWalk' being destroyed
+[2021.07.06-14.56.09:411][ 63]LogSlate: Window 'WeaponIdleWalk' being destroyed
+[2021.07.06-14.56.09:414][ 63]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.56.09:414][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.56.09:423][ 63]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.56.09:423][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.56.09:496][ 63]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.56.09:497][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.56.09:510][ 63]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.56.09:510][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.56.09:560][ 63]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.56.09:561][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.56.29:802][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.06-14.56.33:910][843]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter2FADF888499FC4C14C774E8BAB57315A.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.06-14.56.33:923][843]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.06-14.56.33:923][843]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
