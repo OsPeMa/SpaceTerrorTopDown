@@ -28867,3 +28867,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-14.48.30:477][957]LogContentValidation: Display: Validating Skeleton /Game/_ASSETS/_02_Mesh/Models/TestCharacter/SkeletalMesh/Ch17_nonPBR_Skeleton.Ch17_nonPBR_Skeleton
 [2021.07.06-14.48.31:268][984]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2021.07.06-14.48.31:268][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.03:441][618]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.03:441][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.03:552][618]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.03:552][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.04:449][618]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.04:449][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.05:702][676]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.07.06-14.51.05:725][676]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.05:725][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.16:602][230]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.AnimBP_TestCharacter
+[2021.07.06-14.51.16:645][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-14.51.17:546][230]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.06-14.51.22:083][486]BlueprintLog: New page: Compile AnimBP_TestCharacter
+[2021.07.06-14.51.22:357][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.07.06-14.51.23:643][542]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/AnimBP_TestCharacterCBAABBBD4D25C5C7FE595891CB42B777.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.uasset'
+[2021.07.06-14.51.23:657][542]AssetCheck: New page: Asset Save: AnimBP_TestCharacter
+[2021.07.06-14.51.23:657][542]LogContentValidation: Display: Validating AnimBlueprint /Game/_ASSETS/_02_Mesh/Models/TestCharacter/Animations/AnimBP_TestCharacter.AnimBP_TestCharacter
+[2021.07.06-14.51.24:434][584]LogSlate: Window 'AnimBP_TestCharacter' being destroyed
+[2021.07.06-14.51.24:450][584]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.24:450][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.24:461][584]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.24:461][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.24:582][584]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.51.24:582][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.51.25:402][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.07.06-14.51.25:433][614]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap76CEE1D240CAB602B68316940B1E3A6C.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.06-14.51.25:464][614]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.06-14.51.25:464][614]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
