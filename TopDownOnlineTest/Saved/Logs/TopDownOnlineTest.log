@@ -798,3 +798,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.07-14.09.55:804][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.07.07-14.09.58:238][  2]LogAssetRegistry: Asset discovery search completed in 151.7018 seconds
 [2021.07.07-14.09.58:328][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.016135 seconds (updated 0 objects)
+[2021.07.07-14.15.56:872][377]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.07-14.15.56:979][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.07-14.15.57:290][377]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap89B914274D2A4D3E5CAF989861A5F72F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-14.15.57:412][377]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.07-14.15.57:412][377]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
