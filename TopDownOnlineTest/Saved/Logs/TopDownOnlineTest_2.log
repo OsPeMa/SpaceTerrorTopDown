@@ -801,3 +801,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.07-14.44.33:964][375]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
 [2021.07.07-14.44.34:816][375]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.07.07-14.44.35:017][376]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.07-14.51.17:108][349]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.07-14.51.17:109][349]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.07-14.52.20:208][ 10]LogSlate: Took 0.020696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.07-14.53.40:365][702]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.53.40:457][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.07.07-14.53.40:629][702]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterD45A48DF4764661EF1C578BFEEF82988.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.53.40:702][702]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.53.40:702][702]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.53.40:800][702]LogSlate: Took 0.016683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.07-14.58.11:795][956]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.58.11:882][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.07.07-14.58.12:091][956]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter2746A6E749B7A427A59B7C94B5FC137A.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.58.12:118][956]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.58.12:118][956]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.58.24:591][669]LogEditorTransaction: Undo Format Graph
+[2021.07.07-14.59.20:045][687]LogEditorTransaction: Undo Format Graph
+[2021.07.07-15.00.02:104][967]LogEditorTransaction: Undo Format Graph
+[2021.07.07-15.00.42:947][159]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-15.00.43:040][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.07.07-15.00.43:244][159]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterC78F85544204E6A6F51201925844C925.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-15.00.43:276][159]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-15.00.43:276][159]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-15.00.55:096][785]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-15.00.55:187][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.07-15.00.57:059][865]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter453EB792473F356D40D2BE98E4F8105D.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-15.00.57:074][865]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-15.00.57:074][865]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-15.01.54:585][209]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-15.01.54:669][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.07-15.01.54:854][209]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter5D442610479328AE168E8CB25D0011BF.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-15.01.54:867][209]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-15.01.54:867][209]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-15.02.19:724][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.07.07-15.02.19:979][373]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_Auto1D69F9CA44381196E860E2397A5321C68.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.07.07-15.02.19:990][373]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.288
+[2021.07.07-15.02.19:990][373]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.288
+[2021.07.07-15.03.15:122][955]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-15.03.15:198][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.07-15.03.15:373][955]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter54D921FC49F3554162F742B1C2F672D9.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-15.03.15:400][955]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-15.03.15:400][955]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-15.04.34:276][410]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar
+[2021.07.07-15.06.07:195][269]BlueprintLog: New page: Compile INT_TopDownChar
+[2021.07.07-15.06.07:247][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.07.07-15.06.07:296][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/_Interfaces/INT_TopDownChar" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset" SILENT=true
+[2021.07.07-15.06.07:300][269]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/INT_TopDownChar97CD48604709B0668646E58B0F9E48BD.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset'
+[2021.07.07-15.06.07:373][269]AssetCheck: New page: Asset Save: INT_TopDownChar
+[2021.07.07-15.06.07:373][269]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar
+[2021.07.07-15.06.10:555][457]BlueprintLog: New page: Compile INT_TopDownChar
+[2021.07.07-15.06.10:593][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.07.07-15.06.30:110][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/_Interfaces/INT_TopDownChar" FILE="../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset" SILENT=true
+[2021.07.07-15.06.30:113][621]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/INT_TopDownCharCD7EEF484073EBCF8FC5FEAF3677DB58.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_Main/_Interfaces/INT_TopDownChar.uasset'
+[2021.07.07-15.06.30:162][621]AssetCheck: New page: Asset Save: INT_TopDownChar
+[2021.07.07-15.06.30:162][621]LogContentValidation: Display: Validating Blueprint /Game/_Main/_Interfaces/INT_TopDownChar.INT_TopDownChar
+[2021.07.07-15.06.39:683][183]BlueprintLog: New page: Compile INT_TopDownChar
+[2021.07.07-15.06.39:708][183]LogK2Compiler: Unable to find connection for pin!  Check AllocateDefaultPins() for consistency!
+[2021.07.07-15.07.03:051][183]LogWindows: Error: === Critical error: ===
+[2021.07.07-15.07.03:051][183]LogWindows: Error: 
+[2021.07.07-15.07.03:051][183]LogWindows: Error: Fatal error!
+[2021.07.07-15.07.03:051][183]LogWindows: Error: 
+[2021.07.07-15.07.03:051][183]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000000
+[2021.07.07-15.07.03:051][183]LogWindows: Error: 
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f5d888 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f5d404 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f322fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f06b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f31ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f2f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f322fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f06b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f31ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f322fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f31704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91ca2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd91f30e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd82335338 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd827069c9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd82706429 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd80efb860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd80eae637 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd7ee31cd5 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd7edd5eb7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd7edd5bf1 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd80eb796e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd7eedff6c UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd7eefd576 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd9ecc0088 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd9edaf342 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:051][183]LogWindows: Error: [Callstack] 0x00007ffd9ed8bd07 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ee2859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ee4071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ec846be UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ed07f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ecf0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffd9ece3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffdd74ebcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffdd74d9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffdd74ee389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffdd74d4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffe123de858 USER32.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffe123de299 USER32.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffdd74ef914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ff72ee58848 UE4Editor.exe!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ff72ee7117c UE4Editor.exe!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ff72ee7125a UE4Editor.exe!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ff72ee852bd UE4Editor.exe!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ff72ee87fea UE4Editor.exe!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffe11b17034 KERNEL32.DLL!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: [Callstack] 0x00007ffe12ca2651 ntdll.dll!UnknownFunction []
+[2021.07.07-15.07.03:052][183]LogWindows: Error: 
+[2021.07.07-15.07.03:054][183]LogExit: Executing StaticShutdownAfterError
+[2021.07.07-15.07.03:405][183]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.07.07-15.07.03:405][183]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.07.07-15.07.03:435][183]Log file closed, 07/07/21 10:07:03
