@@ -803,3 +803,1279 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.07-14.15.57:290][377]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap89B914274D2A4D3E5CAF989861A5F72F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
 [2021.07.07-14.15.57:412][377]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2021.07.07-14.15.57:412][377]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.07-14.21.15:167][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-14.21.15:337][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-14.21.15:430][ 14]PIE: New page: PIE session: TopDownExampleMap (Jul 7, 2021, 4:21:15 AM)
+[2021.07.07-14.21.15:507][ 14]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.07-14.21.15:508][ 14]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.07-14.21.15:585][ 14]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.21.15:645][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057528s)
+[2021.07.07-14.21.15:655][ 14]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.21.15:668][ 14]LogPlayLevel: PIE: World Init took: (0.023535s)
+[2021.07.07-14.21.15:686][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.100900s)
+[2021.07.07-14.21.15:692][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.07-14.21.15:708][ 14]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.21.15:708][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.21.15:708][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.21.15:708][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.21.15:714][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.21.15:714][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.21.15:747][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.21.15:762][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.21.15:762][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.21.15:762][ 14]LogInit: FAudioDevice initialized.
+[2021.07.07-14.21.15:762][ 14]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.21.15:856][ 14]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-14.21.15:988][ 14]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.21.15
+[2021.07.07-14.21.16:057][ 14]LogWorld: Bringing up level for play took: 0.080348
+[2021.07.07-14.21.16:078][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.07.07-14.21.16:367][ 14]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.07.07-14.21.16:389][ 14]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.07-14.21.16:413][ 14]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.07-14.21.16:441][ 14]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.07-14.21.16:441][ 14]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.07-14.21.16:457][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.21.16:483][ 14]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.07.07-14.21.16:624][ 14]PIE: Server logged in
+[2021.07.07-14.21.16:626][ 14]PIE: Play in editor total start time 1.453 seconds.
+[2021.07.07-14.21.16:627][ 14]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.21.16:627][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.21.16:627][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.21.16:627][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.21.16:633][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.21.16:633][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.21.16:662][ 14]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.21.16:662][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.21.16:662][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.21.16:662][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.21.16:663][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.21.16:663][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.21.16:663][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.21.16:677][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.21.16:677][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.21.16:677][ 14]LogInit: FAudioDevice initialized.
+[2021.07.07-14.21.16:677][ 14]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2021.07.07-14.21.16:729][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.21.16:793][ 14]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.07-14.21.16:793][ 14]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.07-14.21.16:793][ 14]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.07-14.21.16:806][ 14]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.21.16:820][ 14]LogNet: Game client on port 17777, rate 100000
+[2021.07.07-14.21.16:864][ 14]PIE: Client logged in
+[2021.07.07-14.21.16:864][ 14]PIE: Play in editor total start time 1.692 seconds.
+[2021.07.07-14.21.17:928][ 47]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49492
+[2021.07.07-14.21.17:950][ 47]LogHandshake: SendConnectChallenge. Timestamp: 2.712365, Cookie: 128216046031076180155138089054055210105046169074011077198153
+[2021.07.07-14.21.17:981][ 47]LogHandshake: SendChallengeResponse. Timestamp: 2.712365, Cookie: 128216046031076180155138089054055210105046169074011077198153
+[2021.07.07-14.21.17:985][ 48]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49492
+[2021.07.07-14.21.17:985][ 48]LogHandshake: SendChallengeAck. InCookie: 128216046031076180155138089054055210105046169074011077198153
+[2021.07.07-14.21.17:985][ 48]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49492
+[2021.07.07-14.21.17:986][ 48]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.21.17:986][ 48]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/07/21 09:21:17, [UNetConnection] RemoteAddr: 127.0.0.1:49492, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.21.17:986][ 48]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49492, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.21.17:987][ 48]LogNetVersion: TopDownOnlineTest 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3648053101)
+[2021.07.07-14.21.17:987][ 48]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.21.18:030][ 49]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.07-14.21.18:043][ 49]LogNet: Remote platform little endian=1
+[2021.07.07-14.21.18:043][ 49]LogNet: This platform little endian=1
+[2021.07.07-14.21.18:044][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.07-14.21.18:094][ 50]LogNet: Login request: ?Name=MSI-13633B5A494F879897FA22BDAC8B3983 userId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983 platform: NULL
+[2021.07.07-14.21.18:095][ 50]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.07-14.21.18:105][ 50]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.07-14.21.18:105][ 50]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.07.07-14.21.18:112][ 50]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.21.18:113][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.21.18:132][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-14.21.18:149][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.07.07-14.21.18:193][ 50]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.21.18:193][ 50]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.21.18:217][ 50]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.21.18
+[2021.07.07-14.21.18:227][ 50]LogWorld: Bringing up level for play took: 0.011095
+[2021.07.07-14.21.18:241][ 50]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.21.18:255][ 50]LogLoad: Took 0.150237 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.07-14.21.18:269][ 50]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.21.18:302][ 51]LogNet: Client netspeed is 100000
+[2021.07.07-14.21.18:302][ 51]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-13633B5A494F879897FA22BDAC8B3983?SplitscreenCount=1
+[2021.07.07-14.21.18:319][ 51]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.21.18:367][ 51]LogNet: Join succeeded: MSI-13633B5A494F8798
+[2021.07.07-14.21.18:424][ 52]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.21.18:439][ 52]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.21.58:363][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.21.58:363][411]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.07-14.21.58:363][411]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.07-14.21.58:402][411]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.21.58:415][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.21.58:477][411]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.07.07-14.21.58:477][411]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.07.07-14.21.58:477][411]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983, Channels: 12, Time: 2021.07.07-14.21.58
+[2021.07.07-14.21.58:477][411]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983
+[2021.07.07-14.21.58:477][411]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.07.07-14.21.58:477][411]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.21.58:478][411]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.07-14.21.58:483][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.21.58:484][411]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.21.58:485][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.21.58:510][411]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.07.07-14.21.58:510][411]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.07.07-14.21.58:510][411]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49492, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983
+[2021.07.07-14.21.58:510][411]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49492, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983, Channels: 12, Time: 2021.07.07-14.21.58
+[2021.07.07-14.21.58:510][411]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49492, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-13633B5A494F879897FA22BDAC8B3983
+[2021.07.07-14.21.58:510][411]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.07.07-14.21.58:511][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-14.21.58:526][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.21.58:612][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.21.58:614][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.21.58:725][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.21.58:726][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.21.58:727][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.21.58:809][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.07-14.21.58:875][412]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.07-14.21.58:875][412]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.07.07-14.22.13:841][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.22.15:198][294]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.07-14.22.17:649][294]LogSlate: Took 0.028802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.07-14.22.21:066][295]LogSlate: Took 0.026546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.07-14.37.55:969][920]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.37.56:231][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.07.07-14.37.56:529][920]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter88DCCA644882E56C68008B8635F66972.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.37.56:591][920]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.37.56:591][920]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.37.56:746][920]LogSlate: Took 0.036082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.07-14.38.51:993][114]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-14.38.51:998][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.07-14.38.52:002][114]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.07.07-14.38.52:195][114]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterB584C8FC4F02A7AFD0574884C616E63F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.38.52:235][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.07.07-14.38.52:236][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2021.07.07-14.38.52:236][114]PIE: New page: PIE session: TopDownExampleMap (Jul 7, 2021, 4:38:52 AM)
+[2021.07.07-14.38.52:236][114]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.38.52:249][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012587s)
+[2021.07.07-14.38.52:250][114]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.38.52:250][114]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.07.07-14.38.52:250][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013880s)
+[2021.07.07-14.38.52:274][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.07.07-14.38.52:275][114]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.38.52:275][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.38.52:275][114]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.38.52:275][114]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.38.52:281][114]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.38.52:281][114]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.38.52:324][114]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.38.52:325][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.38.52:325][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.38.52:325][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.38.52:325][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.38.52:325][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.38.52:325][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.38.52:340][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.38.52:340][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.38.52:340][114]LogInit: FAudioDevice initialized.
+[2021.07.07-14.38.52:340][114]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.38.52:346][114]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-14.38.52:349][114]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.38.52
+[2021.07.07-14.38.52:349][114]LogWorld: Bringing up level for play took: 0.001565
+[2021.07.07-14.38.52:349][114]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.07-14.38.52:351][114]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.07-14.38.52:351][114]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.07-14.38.52:351][114]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.07-14.38.52:351][114]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.07-14.38.52:351][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.38.52:351][114]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2021.07.07-14.38.52:352][114]PIE: Server logged in
+[2021.07.07-14.38.52:352][114]PIE: Play in editor total start time 0.355 seconds.
+[2021.07.07-14.38.52:354][114]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.38.52:354][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.38.52:354][114]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.38.52:354][114]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.38.52:359][114]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.38.52:359][114]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.38.52:412][114]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.38.52:412][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.38.52:413][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.38.52:413][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.38.52:413][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.38.52:413][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.38.52:413][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.38.52:427][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.38.52:427][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.38.52:427][114]LogInit: FAudioDevice initialized.
+[2021.07.07-14.38.52:427][114]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled'.
+[2021.07.07-14.38.52:475][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.38.52:475][114]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.07-14.38.52:476][114]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.07-14.38.52:476][114]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.07-14.38.52:476][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.38.52:476][114]LogNet: Game client on port 17777, rate 100000
+[2021.07.07-14.38.52:492][114]PIE: Client logged in
+[2021.07.07-14.38.52:493][114]PIE: Play in editor total start time 0.495 seconds.
+[2021.07.07-14.38.52:635][115]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.38.52:635][115]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.38.53:497][166]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59104
+[2021.07.07-14.38.53:498][166]LogHandshake: SendConnectChallenge. Timestamp: 1.520314, Cookie: 207128047147077143006218029137111175018148166230066219058210
+[2021.07.07-14.38.53:498][166]LogHandshake: SendChallengeResponse. Timestamp: 1.520314, Cookie: 207128047147077143006218029137111175018148166230066219058210
+[2021.07.07-14.38.53:514][167]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59104
+[2021.07.07-14.38.53:514][167]LogHandshake: SendChallengeAck. InCookie: 207128047147077143006218029137111175018148166230066219058210
+[2021.07.07-14.38.53:514][167]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59104
+[2021.07.07-14.38.53:515][167]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.38.53:515][167]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/07/21 09:38:53, [UNetConnection] RemoteAddr: 127.0.0.1:59104, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.38.53:515][167]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59104, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.38.53:515][167]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.38.53:531][168]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.07-14.38.53:531][168]LogNet: Remote platform little endian=1
+[2021.07.07-14.38.53:531][168]LogNet: This platform little endian=1
+[2021.07.07-14.38.53:532][168]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.07.07-14.38.53:548][169]LogNet: Login request: ?Name=MSI-389CFF544D7B4711444443A53336B678 userId: NULL:MSI-389CFF544D7B4711444443A53336B678 platform: NULL
+[2021.07.07-14.38.53:549][169]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.07-14.38.53:549][169]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.07-14.38.53:549][169]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2021.07.07-14.38.53:549][169]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.38.53:549][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.38.53:567][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-14.38.53:607][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.07.07-14.38.53:620][169]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.38.53:621][169]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.38.53:631][169]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.38.53
+[2021.07.07-14.38.53:631][169]LogWorld: Bringing up level for play took: 0.009509
+[2021.07.07-14.38.53:631][169]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.38.53:632][169]LogLoad: Took 0.082816 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.07-14.38.53:632][169]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.38.53:661][170]LogNet: Client netspeed is 100000
+[2021.07.07-14.38.53:661][170]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-389CFF544D7B4711444443A53336B678?SplitscreenCount=1
+[2021.07.07-14.38.53:661][170]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.38.53:663][170]LogNet: Join succeeded: MSI-389CFF544D7B4711
+[2021.07.07-14.38.53:684][171]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.38.53:684][171]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.38.54:433][214]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:46).
+[2021.07.07-14.38.59:928][516]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:08BE
+[2021.07.07-14.38.59:959][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.38.59:959][516]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:09DA
+[2021.07.07-14.38.59:959][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.38.59:960][516]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0AB3
+[2021.07.07-14.38.59:960][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.38.59:960][516]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0B7F
+[2021.07.07-14.38.59:960][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.38.59:960][516]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0D09
+[2021.07.07-14.38.59:960][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Print String
+[2021.07.07-14.38.59:978][516]LogBlueprintUserMessages: [TopDownCharacter_C_0] Server: 478.780487
+[2021.07.07-14.39.01:010][578]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:08BE
+[2021.07.07-14.39.01:011][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.01:011][578]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:09DA
+[2021.07.07-14.39.01:011][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.01:012][578]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0AB3
+[2021.07.07-14.39.01:012][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.01:012][578]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0B7F
+[2021.07.07-14.39.01:012][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.01:012][578]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0D09
+[2021.07.07-14.39.01:012][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Print String
+[2021.07.07-14.39.01:012][578]LogBlueprintUserMessages: [TopDownCharacter_C_0] Server: 479.770111
+[2021.07.07-14.39.01:993][637]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:08BE
+[2021.07.07-14.39.01:993][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.01:993][637]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:09DA
+[2021.07.07-14.39.01:993][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.01:995][637]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0AB3
+[2021.07.07-14.39.01:995][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.01:995][637]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0B7F
+[2021.07.07-14.39.01:995][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.01:995][637]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0D09
+[2021.07.07-14.39.01:995][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Print String
+[2021.07.07-14.39.01:995][637]LogBlueprintUserMessages: [TopDownCharacter_C_0] Server: 479.770111
+[2021.07.07-14.39.03:660][737]LogScript: Warning: Accessed None trying to read property Control
+	TopDownCharacter_C /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:08BE
+[2021.07.07-14.39.03:660][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.03:660][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.03:661][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.03:662][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.03:662][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Print String
+[2021.07.07-14.39.03:662][737]LogBlueprintUserMessages: [TopDownCharacter_C_0] Server: 504.264801
+[2021.07.07-14.39.03:976][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.03:976][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  SpawnActor BP Throw Master
+[2021.07.07-14.39.03:976][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.03:977][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Add Impulse
+[2021.07.07-14.39.03:977][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Control". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Print String
+[2021.07.07-14.39.03:977][747]LogBlueprintUserMessages: [TopDownCharacter_C_0] Server: 577.051208
+[2021.07.07-14.39.09:408][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.09:408][ 65]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.07-14.39.09:409][ 65]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.07-14.39.09:412][ 65]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.39.09:412][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.09:420][ 65]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.07.07-14.39.09:420][ 65]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.07.07-14.39.09:420][ 65]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-389CFF544D7B4711444443A53336B678, Channels: 12, Time: 2021.07.07-14.39.09
+[2021.07.07-14.39.09:420][ 65]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-389CFF544D7B4711444443A53336B678
+[2021.07.07-14.39.09:420][ 65]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.07.07-14.39.09:421][ 65]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.39.09:421][ 65]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.07-14.39.09:422][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.09:422][ 65]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.39.09:422][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.09:430][ 65]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.07.07-14.39.09:430][ 65]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.07.07-14.39.09:431][ 65]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:59104, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-389CFF544D7B4711444443A53336B678
+[2021.07.07-14.39.09:431][ 65]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59104, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-389CFF544D7B4711444443A53336B678, Channels: 12, Time: 2021.07.07-14.39.09
+[2021.07.07-14.39.09:431][ 65]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59104, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-389CFF544D7B4711444443A53336B678
+[2021.07.07-14.39.09:431][ 65]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.07.07-14.39.09:432][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-14.39.09:436][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.09:457][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.09:458][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.09:496][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.09:496][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.09:497][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.09:531][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.07.07-14.39.09:761][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.07.07-14.39.09:761][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.07-14.39.19:483][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-14.39.19:489][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-14.39.19:489][617]PIE: New page: PIE session: TopDownExampleMap (Jul 7, 2021, 4:39:19 AM)
+[2021.07.07-14.39.19:489][617]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.39.19:506][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016755s)
+[2021.07.07-14.39.19:507][617]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.39.19:636][617]LogPlayLevel: PIE: World Init took: (0.130009s)
+[2021.07.07-14.39.19:636][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.146940s)
+[2021.07.07-14.39.19:655][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.07.07-14.39.19:656][617]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.07-14.39.19:656][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.39.19:656][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.39.19:657][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.39.19:657][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.39.19:657][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.39.19:662][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.39.19:662][617]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.39.19:699][617]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.39.19:699][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.39.19:700][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.39.19:700][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.39.19:700][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.39.19:700][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.39.19:700][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.39.19:713][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.39.19:713][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.39.19:713][617]LogInit: FAudioDevice initialized.
+[2021.07.07-14.39.19:713][617]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.39.19:727][617]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-14.39.19:730][617]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.39.19
+[2021.07.07-14.39.19:730][617]LogWorld: Bringing up level for play took: 0.002227
+[2021.07.07-14.39.19:730][617]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.07.07-14.39.19:732][617]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.07-14.39.19:732][617]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.07-14.39.19:733][617]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.07-14.39.19:733][617]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.07-14.39.19:733][617]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.39.19:733][617]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2021.07.07-14.39.19:733][617]PIE: Server logged in
+[2021.07.07-14.39.19:734][617]PIE: Play in editor total start time 0.246 seconds.
+[2021.07.07-14.39.19:735][617]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.39.19:735][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.39.19:735][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.39.19:736][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.39.19:736][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.39.19:744][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.39.19:744][617]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.39.20:017][617]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.39.20:018][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.39.20:018][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.39.20:018][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.39.20:018][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.39.20:018][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.39.20:018][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.39.20:031][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.39.20:031][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.39.20:031][617]LogInit: FAudioDevice initialized.
+[2021.07.07-14.39.20:031][617]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2021.07.07-14.39.20:088][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.20:088][617]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.07-14.39.20:088][617]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.07-14.39.20:088][617]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.07-14.39.20:088][617]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.39.20:088][617]LogNet: Game client on port 17777, rate 100000
+[2021.07.07-14.39.20:093][617]PIE: Client logged in
+[2021.07.07-14.39.20:097][617]PIE: Play in editor total start time 0.609 seconds.
+[2021.07.07-14.39.21:116][666]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50283
+[2021.07.07-14.39.21:116][666]LogHandshake: SendConnectChallenge. Timestamp: 1.549378, Cookie: 189029062239024157070039066227132156051246239241250088212174
+[2021.07.07-14.39.21:117][666]LogHandshake: SendChallengeResponse. Timestamp: 1.549378, Cookie: 189029062239024157070039066227132156051246239241250088212174
+[2021.07.07-14.39.21:133][667]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50283
+[2021.07.07-14.39.21:133][667]LogHandshake: SendChallengeAck. InCookie: 189029062239024157070039066227132156051246239241250088212174
+[2021.07.07-14.39.21:133][667]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50283
+[2021.07.07-14.39.21:133][667]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.39.21:133][667]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/07/21 09:39:21, [UNetConnection] RemoteAddr: 127.0.0.1:50283, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.39.21:133][667]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50283, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.39.21:134][667]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.39.21:149][668]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.07-14.39.21:149][668]LogNet: Remote platform little endian=1
+[2021.07.07-14.39.21:149][668]LogNet: This platform little endian=1
+[2021.07.07-14.39.21:150][668]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.07.07-14.39.21:166][669]LogNet: Login request: ?Name=MSI-70D4B83F4EFEE605D19AF9B05B968C8E userId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E platform: NULL
+[2021.07.07-14.39.21:167][669]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.07-14.39.21:167][669]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.07-14.39.21:167][669]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2021.07.07-14.39.21:167][669]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.39.21:167][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.21:185][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-14.39.21:187][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.07.07-14.39.21:203][669]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.39.21:205][669]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.39.21:214][669]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.39.21
+[2021.07.07-14.39.21:214][669]LogWorld: Bringing up level for play took: 0.008296
+[2021.07.07-14.39.21:215][669]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.39.21:215][669]LogLoad: Took 0.047730 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.07-14.39.21:215][669]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.39.21:249][670]LogNet: Client netspeed is 100000
+[2021.07.07-14.39.21:249][670]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-70D4B83F4EFEE605D19AF9B05B968C8E?SplitscreenCount=1
+[2021.07.07-14.39.21:249][670]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.39.21:251][670]LogNet: Join succeeded: MSI-70D4B83F4EFEE605
+[2021.07.07-14.39.21:270][671]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.39.21:270][671]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.39.26:399][975]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 620.455811
+[2021.07.07-14.39.27:383][ 33]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 418.572449
+[2021.07.07-14.39.28:566][104]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 481.71759
+[2021.07.07-14.39.30:482][218]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 594.220215
+[2021.07.07-14.39.32:749][353]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 516.960571
+[2021.07.07-14.39.34:865][476]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 495.378693
+[2021.07.07-14.39.36:147][552]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 486.582001
+[2021.07.07-14.39.37:230][617]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 510.007202
+[2021.07.07-14.39.38:364][683]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 496.177551
+[2021.07.07-14.39.39:880][768]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 496.177551
+[2021.07.07-14.39.41:064][836]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 496.177551
+[2021.07.07-14.39.41:765][875]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 542.711731
+[2021.07.07-14.39.42:547][919]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 548.521729
+[2021.07.07-14.39.43:763][988]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 512.121887
+[2021.07.07-14.39.45:096][ 66]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 471.033325
+[2021.07.07-14.39.46:412][137]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 427.028137
+[2021.07.07-14.39.47:179][180]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 427.028137
+[2021.07.07-14.39.47:596][203]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 427.028137
+[2021.07.07-14.39.48:145][235]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 427.028137
+[2021.07.07-14.39.49:396][308]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 467.855225
+[2021.07.07-14.39.50:945][396]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 467.855225
+[2021.07.07-14.39.51:961][453]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 491.369873
+[2021.07.07-14.39.56:978][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.56:978][745]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.07-14.39.56:978][745]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.07-14.39.56:981][745]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.39.56:982][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.56:989][745]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.07.07-14.39.56:989][745]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.07.07-14.39.56:989][745]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E, Channels: 12, Time: 2021.07.07-14.39.56
+[2021.07.07-14.39.56:989][745]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E
+[2021.07.07-14.39.56:990][745]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.07.07-14.39.56:990][745]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.39.56:990][745]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.07-14.39.56:991][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.56:991][745]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.39.56:991][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.56:999][745]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.07.07-14.39.56:999][745]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.07.07-14.39.56:999][745]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50283, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E
+[2021.07.07-14.39.57:000][745]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50283, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E, Channels: 12, Time: 2021.07.07-14.39.57
+[2021.07.07-14.39.57:000][745]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50283, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-70D4B83F4EFEE605D19AF9B05B968C8E
+[2021.07.07-14.39.57:000][745]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.07.07-14.39.57:000][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-14.39.57:004][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.39.57:023][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.57:024][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.57:045][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.39.57:045][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.57:046][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.39.57:095][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.07-14.39.57:123][746]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.07.07-14.39.57:123][746]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.07.07-14.40.42:358][347]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.40.42:430][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.07.07-14.40.42:595][347]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter9295A07047C901C4381E87ACFA4870FA.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.40.42:609][347]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.40.42:609][347]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.40.48:753][690]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-14.40.48:759][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-14.40.48:759][690]PIE: New page: PIE session: TopDownExampleMap (Jul 7, 2021, 4:40:48 AM)
+[2021.07.07-14.40.48:759][690]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.40.48:781][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022422s)
+[2021.07.07-14.40.48:782][690]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.40.48:782][690]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2021.07.07-14.40.48:782][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024054s)
+[2021.07.07-14.40.48:824][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.07.07-14.40.48:825][690]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.40.48:826][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.40.48:826][690]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.40.48:826][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.40.48:832][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.40.48:832][690]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.40.48:866][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.40.48:866][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.40.48:881][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.40.48:881][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.40.48:881][690]LogInit: FAudioDevice initialized.
+[2021.07.07-14.40.48:881][690]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.40.48:893][690]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-14.40.48:895][690]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.40.48
+[2021.07.07-14.40.48:895][690]LogWorld: Bringing up level for play took: 0.001755
+[2021.07.07-14.40.48:895][690]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.07.07-14.40.48:897][690]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.07-14.40.48:897][690]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.07-14.40.48:898][690]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.07-14.40.48:898][690]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.07-14.40.48:898][690]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.40.48:898][690]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2021.07.07-14.40.48:898][690]PIE: Server logged in
+[2021.07.07-14.40.48:899][690]PIE: Play in editor total start time 0.141 seconds.
+[2021.07.07-14.40.48:900][690]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-14.40.48:900][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-14.40.48:900][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-14.40.48:901][690]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-14.40.48:901][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-14.40.48:907][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-14.40.48:907][690]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-14.40.48:941][690]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.07-14.40.48:941][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-14.40.48:941][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-14.40.48:941][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-14.40.48:942][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-14.40.48:942][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-14.40.48:942][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-14.40.48:956][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-14.40.48:956][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-14.40.48:956][690]LogInit: FAudioDevice initialized.
+[2021.07.07-14.40.48:956][690]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled'.
+[2021.07.07-14.40.49:007][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.40.49:007][690]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.07-14.40.49:007][690]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.07-14.40.49:008][690]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.07-14.40.49:008][690]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.40.49:008][690]LogNet: Game client on port 17777, rate 100000
+[2021.07.07-14.40.49:012][690]PIE: Client logged in
+[2021.07.07-14.40.49:017][690]PIE: Play in editor total start time 0.26 seconds.
+[2021.07.07-14.40.50:055][740]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61235
+[2021.07.07-14.40.50:055][740]LogHandshake: SendConnectChallenge. Timestamp: 1.333055, Cookie: 151221102141110028122057238224188192230071054254126074082182
+[2021.07.07-14.40.50:056][740]LogHandshake: SendChallengeResponse. Timestamp: 1.333055, Cookie: 151221102141110028122057238224188192230071054254126074082182
+[2021.07.07-14.40.50:070][741]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61235
+[2021.07.07-14.40.50:070][741]LogHandshake: SendChallengeAck. InCookie: 151221102141110028122057238224188192230071054254126074082182
+[2021.07.07-14.40.50:070][741]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61235
+[2021.07.07-14.40.50:071][741]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.07-14.40.50:071][741]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/07/21 09:40:50, [UNetConnection] RemoteAddr: 127.0.0.1:61235, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.40.50:071][741]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61235, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.40.50:072][741]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.07-14.40.50:086][742]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.07-14.40.50:086][742]LogNet: Remote platform little endian=1
+[2021.07.07-14.40.50:086][742]LogNet: This platform little endian=1
+[2021.07.07-14.40.50:087][742]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.07.07-14.40.50:103][743]LogNet: Login request: ?Name=MSI-AD3936C34CE5E88135F7A9BAD9667457 userId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457 platform: NULL
+[2021.07.07-14.40.50:104][743]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.07-14.40.50:104][743]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.07-14.40.50:104][743]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2021.07.07-14.40.50:104][743]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.40.50:104][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.40.50:127][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-14.40.50:130][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.07.07-14.40.50:148][743]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2021.07.07-14.40.50:149][743]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-14.40.50:159][743]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.07-09.40.50
+[2021.07.07-14.40.50:159][743]LogWorld: Bringing up level for play took: 0.009525
+[2021.07.07-14.40.50:159][743]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.40.50:160][743]LogLoad: Took 0.055563 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.07-14.40.50:160][743]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.07-14.40.50:228][744]LogNet: Client netspeed is 100000
+[2021.07.07-14.40.50:228][744]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-AD3936C34CE5E88135F7A9BAD9667457?SplitscreenCount=1
+[2021.07.07-14.40.50:228][744]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.40.50:230][744]LogNet: Join succeeded: MSI-AD3936C34CE5E881
+[2021.07.07-14.40.50:289][745]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.40.50:289][745]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.07-14.40.54:854][ 10]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 830.571228
+[2021.07.07-14.40.56:335][ 97]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 962.091553
+[2021.07.07-14.40.58:634][227]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 596.08429
+[2021.07.07-14.40.59:017][250]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 587.27948
+[2021.07.07-14.40.59:718][290]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 457.0065
+[2021.07.07-14.41.00:001][307]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 417.376099
+[2021.07.07-14.41.00:283][324]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 360.567078
+[2021.07.07-14.41.00:500][337]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 308.231873
+[2021.07.07-14.41.00:717][350]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 270.859222
+[2021.07.07-14.41.00:951][364]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 247.402603
+[2021.07.07-14.41.01:251][381]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 209.16156
+[2021.07.07-14.41.01:517][395]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 188.126602
+[2021.07.07-14.41.01:817][412]LogBlueprintUserMessages: [TopDownCharacter_2] Server: 182.069031
+[2021.07.07-14.41.03:588][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.41.03:588][514]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.07-14.41.03:588][514]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.07-14.41.03:591][514]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.41.03:591][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.41.03:601][514]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.07.07-14.41.03:601][514]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.07.07-14.41.03:602][514]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457, Channels: 12, Time: 2021.07.07-14.41.03
+[2021.07.07-14.41.03:602][514]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457
+[2021.07.07-14.41.03:602][514]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.07.07-14.41.03:603][514]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-14.41.03:603][514]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.07-14.41.03:603][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.41.03:603][514]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.41.03:604][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.41.03:611][514]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.07.07-14.41.03:611][514]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.07.07-14.41.03:611][514]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61235, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457
+[2021.07.07-14.41.03:611][514]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61235, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457, Channels: 12, Time: 2021.07.07-14.41.03
+[2021.07.07-14.41.03:611][514]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61235, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-AD3936C34CE5E88135F7A9BAD9667457
+[2021.07.07-14.41.03:611][514]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.07.07-14.41.03:612][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-14.41.03:617][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.41.03:636][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-14.41.03:637][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.41.03:638][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.41.03:682][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.41.03:683][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.41.03:869][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-14.41.03:872][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.07-14.41.03:904][515]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.07.07-14.41.03:904][515]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.07.07-14.41.21:810][538]LogSlate: Window 'Message Log' being destroyed
+[2021.07.07-14.41.21:817][538]LogSlate: Window 'Message Log' being destroyed
+[2021.07.07-14.41.32:333][149]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.41.32:406][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.07.07-14.41.32:565][149]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacterCA8E60144A63FA679CBADA852B45EC06.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.41.32:578][149]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.41.32:578][149]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.41.43:362][629]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter2F92FD204A123091A194F4B10B17B129.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.07-14.41.43:375][629]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.07-14.41.43:375][629]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.07-14.41.44:183][676]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.07-14.41.44:265][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.07.07-14.42.38:813][646]Cmd: CLOSE_SLATE_MAINFRAME
+[2021.07.07-14.42.38:858][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.07.07-14.42.40:226][646]LogSlate: Window 'Save Content' being destroyed
+[2021.07.07-14.42.40:278][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.07.07-14.42.40:302][646]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMapDF57B60E433E1914D16EF69898460A60.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-14.42.40:315][646]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.057
+[2021.07.07-14.42.40:362][646]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.07.07-14.42.40:450][646]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.42.40:450][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-14.42.40:801][646]LogSlate: Window 'Plugins' being destroyed
+[2021.07.07-14.42.40:804][646]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.07.07-14.42.40:835][646]LogSlate: Window 'TopDownOnlineTest - Unreal Editor' being destroyed
+[2021.07.07-14.42.40:836][646]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.07-14.42.41:380][646]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.07-14.42.41:380][646]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.07-14.42.41:383][647]Cmd: QUIT_EDITOR
+[2021.07.07-14.42.41:383][647]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.07-14.42.41:522][647]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.07-14.42.42:984][647]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.07-14.42.42:984][647]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.07-14.42.42:984][647]LogAudio: Display: Audio Device unregistered from world 'TopDownExampleMap'.
+[2021.07.07-14.42.42:984][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.42.42:985][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-14.42.44:016][647]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.07-14.42.44:127][647]LogExit: Preparing to exit.
+[2021.07.07-14.42.44:434][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229CC00] Windows
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229CD00] Default__DeviceProfile
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221E200] WindowsNoEditor
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229CB00] WindowsServer
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223BF00] WindowsClient
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221EC00] IOS
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223A600] iPadAir
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221DE00] iPadAir2
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9100] IPadPro
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9200] iPadAir3
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221F100] iPadAir4
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DA800] iPadMini2
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221F600] iPadMini3
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DB700] iPadMini4
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221D700] iPadMini5
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B900] iPhone6
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B800] iPodTouch6
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D500] iPhone7
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D400] iPodTouch7
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221C300] iPhone5S
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802239100] iPhone6Plus
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221E600] iPhone6S
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802239400] iPhone6SPlus
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221C200] iPhone7Plus
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223A500] iPhoneSE
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221D300] iPhone8
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B100] iPhone8Plus
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221E100] iPhoneX
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238D00] iPhoneXS
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221C100] iPhoneXSMax
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238500] iPhoneXR
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221CA00] iPhone11
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238300] iPhone11Pro
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229E300] iPhone11ProMax
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223AB00] iPhoneSE2
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D800] iPhone12Mini
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238100] iPhone12
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229E000] iPhone12Pro
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B400] iPhone12ProMax
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229E900] iPadPro105
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223AC00] iPadPro129
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229DE00] iPadPro97
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238A00] iPadPro2_129
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229E400] iPad5
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802238800] iPad6
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D000] iPad7
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223BA00] iPad8
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229CA00] iPadPro11
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B200] iPadPro2_11
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D900] iPadPro3_129
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802239600] iPadPro4_129
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229C800] AppleTV
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223BB00] AppleTV4K
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229CE00] TVOS
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [0000022802239E00] Mac
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229C600] MacClient
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223A000] MacNoEditor
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229C200] MacServer
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223A900] Linux
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229DC00] LinuxAArch64
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223BD00] LinuxNoEditor
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229C100] LinuxAArch64NoEditor
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280223B500] LinuxClient
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280229D300] LinuxAArch64Client
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9600] LinuxServer
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221E500] LinuxAArch64Server
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8B00] Android
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221E400] Android_Low
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DBD00] Android_Mid
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221D200] Android_High
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8200] Android_Default
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221C600] Android_Adreno4xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9500] Android_Adreno5xx_Low
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221DF00] Android_Adreno5xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9D00] Android_Adreno6xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221C700] Android_Adreno6xx_Vulkan
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DB200] Android_Mali_T6xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221EB00] Android_Mali_T7xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9E00] Android_Mali_T8xx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221CB00] Android_Mali_G71
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DBE00] Android_Mali_G72
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221CD00] Android_Mali_G72_Vulkan
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021DA300] Android_Mali_G76
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221D000] Android_Mali_G76_Vulkan
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8700] Android_Mali_G77
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221F800] Android_Mali_G77_Vulkan
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8800] Android_Vulkan_SM5
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [000002280221F000] Android_PowerVR_G6xxx
+[2021.07.07-14.42.46:136][647]LogDeviceProfile: Device profile begin destroy: [00000228021D9800] Android_PowerVR_GT7xxx
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [000002280221EE00] Android_PowerVR_GE8xxx
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8E00] Android_PowerVR_GM9xxx
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [000002280221D900] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [00000228021D8100] Android_TegraK1
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [000002280221D600] Android_Unknown_Vulkan
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [00000228021DB100] Lumin
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [000002280221D500] Lumin_Desktop
+[2021.07.07-14.42.46:137][647]LogDeviceProfile: Device profile begin destroy: [00000228021DBC00] HoloLens
+[2021.07.07-14.42.47:590][647]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.42.47:591][647]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.42.47:592][647]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.42.50:584][647]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.07-14.42.56:082][647]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-14.42.56:082][647]LogExit: Editor shut down
+[2021.07.07-14.42.56:216][647]LogExit: Transaction tracking system shut down
+[2021.07.07-14.43.15:324][647]LogExit: Object subsystem successfully closed.
+[2021.07.07-14.43.16:061][647]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.07-14.43.23:177][647]LogModuleManager: Shutting down and abandoning module BlueprintGraph (824)
+[2021.07.07-14.43.23:199][647]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (820)
+[2021.07.07-14.43.23:199][647]LogModuleManager: Shutting down and abandoning module Voice (818)
+[2021.07.07-14.43.23:314][647]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2021.07.07-14.43.23:314][647]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2021.07.07-14.43.23:821][647]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2021.07.07-14.43.23:821][647]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2021.07.07-14.43.23:821][647]LogModuleManager: Shutting down and abandoning module SceneOutliner (808)
+[2021.07.07-14.43.23:821][647]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2021.07.07-14.43.23:981][647]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2021.07.07-14.43.24:154][647]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2021.07.07-14.43.24:274][647]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2021.07.07-14.43.24:274][647]LogModuleManager: Shutting down and abandoning module PlanarCut (798)
+[2021.07.07-14.43.24:329][647]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2021.07.07-14.43.24:329][647]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2021.07.07-14.43.24:329][647]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2021.07.07-14.43.24:450][647]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2021.07.07-14.43.24:980][647]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2021.07.07-14.43.25:130][647]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2021.07.07-14.43.25:368][647]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (784)
+[2021.07.07-14.43.25:368][647]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (782)
+[2021.07.07-14.43.25:368][647]LogModuleManager: Shutting down and abandoning module WebMMedia (780)
+[2021.07.07-14.43.25:393][647]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (778)
+[2021.07.07-14.43.25:481][647]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (776)
+[2021.07.07-14.43.25:481][647]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (774)
+[2021.07.07-14.43.25:481][647]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2021.07.07-14.43.25:625][647]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2021.07.07-14.43.25:896][647]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module TextureAlignMode (746)
+[2021.07.07-14.43.25:955][647]LogModuleManager: Shutting down and abandoning module BspMode (744)
+[2021.07.07-14.43.26:015][647]LogModuleManager: Shutting down and abandoning module GeometryMode (742)
+[2021.07.07-14.43.26:063][647]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (740)
+[2021.07.07-14.43.26:244][647]LogModuleManager: Shutting down and abandoning module SmartSnapping (738)
+[2021.07.07-14.43.26:244][647]LogModuleManager: Shutting down and abandoning module SessionServices (736)
+[2021.07.07-14.43.26:244][647]LogModuleManager: Shutting down and abandoning module MeshPaint (734)
+[2021.07.07-14.43.26:358][647]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (732)
+[2021.07.07-14.43.26:432][647]LogModuleManager: Shutting down and abandoning module FoliageEdit (730)
+[2021.07.07-14.43.26:530][647]LogModuleManager: Shutting down and abandoning module LandscapeEditor (728)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module MeshPaintMode (726)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (724)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module ActorPickerMode (722)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module PlacementMode (720)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module ViewportSnapping (718)
+[2021.07.07-14.43.26:951][647]LogModuleManager: Shutting down and abandoning module ViewportInteraction (716)
+[2021.07.07-14.43.27:038][647]LogModuleManager: Shutting down and abandoning module ClothPainter (714)
+[2021.07.07-14.43.27:274][647]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (713)
+[2021.07.07-14.43.27:468][647]LogModuleManager: Shutting down and abandoning module LogVisualizer (710)
+[2021.07.07-14.43.27:864][647]LogModuleManager: Shutting down and abandoning module IntroTutorials (708)
+[2021.07.07-14.43.28:111][647]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (707)
+[2021.07.07-14.43.28:291][647]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (704)
+[2021.07.07-14.43.28:291][647]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (702)
+[2021.07.07-14.43.28:368][647]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (700)
+[2021.07.07-14.43.28:466][647]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (699)
+[2021.07.07-14.43.29:342][647]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (696)
+[2021.07.07-14.43.29:342][647]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (694)
+[2021.07.07-14.43.29:342][647]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (692)
+[2021.07.07-14.43.29:342][647]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (690)
+[2021.07.07-14.43.29:342][647]LogModuleManager: Shutting down and abandoning module TraceInsights (688)
+[2021.07.07-14.43.29:944][647]MemoryProfiler: Shutdown
+[2021.07.07-14.43.29:944][647]NetworkingProfiler: Shutdown
+[2021.07.07-14.43.29:944][647]LoadingProfiler: Shutdown
+[2021.07.07-14.43.29:977][647]TimingProfiler: Shutdown
+[2021.07.07-14.43.30:016][647]LogModuleManager: Shutting down and abandoning module TraceServices (687)
+[2021.07.07-14.43.30:139][647]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (684)
+[2021.07.07-14.43.30:168][647]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (682)
+[2021.07.07-14.43.30:168][647]LogModuleManager: Shutting down and abandoning module InputBindingEditor (680)
+[2021.07.07-14.43.30:432][647]LogModuleManager: Shutting down and abandoning module MergeActors (678)
+[2021.07.07-14.43.30:444][647]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (676)
+[2021.07.07-14.43.30:508][647]LogModuleManager: Shutting down and abandoning module LocalizationService (675)
+[2021.07.07-14.43.30:686][647]LogModuleManager: Shutting down and abandoning module HardwareTargeting (672)
+[2021.07.07-14.43.30:686][647]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (670)
+[2021.07.07-14.43.30:802][647]LogModuleManager: Shutting down and abandoning module UndoHistory (668)
+[2021.07.07-14.43.30:811][647]LogModuleManager: Shutting down and abandoning module XmlParser (666)
+[2021.07.07-14.43.30:833][647]LogModuleManager: Shutting down and abandoning module Blutility (664)
+[2021.07.07-14.43.30:833][647]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (662)
+[2021.07.07-14.43.30:833][647]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (661)
+[2021.07.07-14.43.30:834][647]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (658)
+[2021.07.07-14.43.30:834][647]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (657)
+[2021.07.07-14.43.30:857][647]LogModuleManager: Shutting down and abandoning module SettingsEditor (654)
+[2021.07.07-14.43.30:880][647]LogModuleManager: Shutting down and abandoning module ProjectLauncher (652)
+[2021.07.07-14.43.30:905][647]LogModuleManager: Shutting down and abandoning module SessionFrontend (650)
+[2021.07.07-14.43.31:024][647]LogModuleManager: Shutting down and abandoning module ProfilerClient (648)
+[2021.07.07-14.43.31:109][647]LogModuleManager: Shutting down and abandoning module DeviceManager (646)
+[2021.07.07-14.43.31:158][647]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (645)
+[2021.07.07-14.43.31:202][647]LogModuleManager: Shutting down and abandoning module AutomationController (642)
+[2021.07.07-14.43.31:252][647]LogModuleManager: Shutting down and abandoning module AutomationWindow (640)
+[2021.07.07-14.43.31:351][647]LogModuleManager: Shutting down and abandoning module Layers (638)
+[2021.07.07-14.43.31:449][647]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (636)
+[2021.07.07-14.43.31:449][647]LogModuleManager: Shutting down and abandoning module DetailCustomizations (634)
+[2021.07.07-14.43.31:631][647]LogModuleManager: Shutting down and abandoning module PackagesDialog (632)
+[2021.07.07-14.43.31:631][647]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (630)
+[2021.07.07-14.43.32:005][647]LogModuleManager: Shutting down and abandoning module Persona (628)
+[2021.07.07-14.43.32:090][647]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (627)
+[2021.07.07-14.43.32:100][647]LogModuleManager: Shutting down and abandoning module AnimGraph (625)
+[2021.07.07-14.43.32:112][647]LogModuleManager: Shutting down and abandoning module Kismet (622)
+[2021.07.07-14.43.32:140][647]LogModuleManager: Shutting down and abandoning module KismetWidgets (621)
+[2021.07.07-14.43.32:140][647]LogModuleManager: Shutting down and abandoning module GraphEditor (618)
+[2021.07.07-14.43.32:140][647]LogModuleManager: Shutting down and abandoning module StructViewer (616)
+[2021.07.07-14.43.32:161][647]LogModuleManager: Shutting down and abandoning module ClassViewer (614)
+[2021.07.07-14.43.32:161][647]LogModuleManager: Shutting down and abandoning module Toolbox (612)
+[2021.07.07-14.43.32:161][647]LogModuleManager: Shutting down and abandoning module ModuleUI (610)
+[2021.07.07-14.43.32:221][647]LogModuleManager: Shutting down and abandoning module OutputLog (608)
+[2021.07.07-14.43.32:327][647]LogModuleManager: Shutting down and abandoning module GammaUI (606)
+[2021.07.07-14.43.32:414][647]LogModuleManager: Shutting down and abandoning module Documentation (604)
+[2021.07.07-14.43.32:414][647]LogModuleManager: Shutting down and abandoning module LiveCoding (602)
+[2021.07.07-14.43.32:459][647]LogModuleManager: Shutting down and abandoning module LevelSequence (600)
+[2021.07.07-14.43.32:513][647]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (598)
+[2021.07.07-14.43.32:513][647]LogModuleManager: Shutting down and abandoning module MovieScene (596)
+[2021.07.07-14.43.32:550][647]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (594)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module LauncherPlatform (592)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module AnalyticsET (590)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module PortalServices (588)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module PortalRpc (586)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module MessagingRpc (584)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (582)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module AudioMixerCore (581)
+[2021.07.07-14.43.32:570][647]LogModuleManager: Shutting down and abandoning module AIModule (578)
+[2021.07.07-14.43.32:608][647]LogModuleManager: Shutting down and abandoning module GameplayDebugger (577)
+[2021.07.07-14.43.32:608][647]LogModuleManager: Shutting down and abandoning module AITestSuite (575)
+[2021.07.07-14.43.32:619][647]LogModuleManager: Shutting down and abandoning module NavigationSystem (573)
+[2021.07.07-14.43.32:619][647]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (570)
+[2021.07.07-14.43.32:626][647]LogModuleManager: Shutting down and abandoning module ProfilerService (568)
+[2021.07.07-14.43.32:762][647]LogModuleManager: Shutting down and abandoning module TaskGraph (566)
+[2021.07.07-14.43.32:796][647]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (564)
+[2021.07.07-14.43.32:797][647]LogModuleManager: Shutting down and abandoning module MegascansPlugin (562)
+[2021.07.07-14.43.32:797][647]LogModuleManager: Shutting down and abandoning module SQLiteSupport (560)
+[2021.07.07-14.43.32:797][647]LogModuleManager: Shutting down and abandoning module DatabaseSupport (558)
+[2021.07.07-14.43.32:797][647]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (556)
+[2021.07.07-14.43.32:842][647]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2021.07.07-14.43.32:842][647]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2021.07.07-14.43.32:843][647]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2021.07.07-14.43.32:883][647]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (548)
+[2021.07.07-14.43.32:883][647]LogModuleManager: Shutting down and abandoning module MotoSynth (546)
+[2021.07.07-14.43.32:883][647]LogModuleManager: Shutting down and abandoning module MeshConversion (544)
+[2021.07.07-14.43.33:011][647]LogModuleManager: Shutting down and abandoning module DynamicMesh (542)
+[2021.07.07-14.43.33:135][647]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (540)
+[2021.07.07-14.43.33:203][647]LogModuleManager: Shutting down and abandoning module GeometricObjects (538)
+[2021.07.07-14.43.33:213][647]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (536)
+[2021.07.07-14.43.33:213][647]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (535)
+[2021.07.07-14.43.33:228][647]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (532)
+[2021.07.07-14.43.33:228][647]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (530)
+[2021.07.07-14.43.33:228][647]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (528)
+[2021.07.07-14.43.33:250][647]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (526)
+[2021.07.07-14.43.33:250][647]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (524)
+[2021.07.07-14.43.33:250][647]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (522)
+[2021.07.07-14.43.33:250][647]LogModuleManager: Shutting down and abandoning module ChaosNiagara (520)
+[2021.07.07-14.43.33:262][647]LogModuleManager: Shutting down and abandoning module FractureEditor (518)
+[2021.07.07-14.43.33:332][647]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (516)
+[2021.07.07-14.43.33:332][647]LogModuleManager: Shutting down and abandoning module AutomationUtils (514)
+[2021.07.07-14.43.33:332][647]LogModuleManager: Shutting down and abandoning module BackChannel (512)
+[2021.07.07-14.43.33:364][647]LogModuleManager: Shutting down and abandoning module AlembicImporter (510)
+[2021.07.07-14.43.33:396][647]LogModuleManager: Shutting down and abandoning module AlembicLibrary (509)
+[2021.07.07-14.43.33:396][647]LogModuleManager: Shutting down and abandoning module GeometryCache (508)
+[2021.07.07-14.43.33:396][647]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (507)
+[2021.07.07-14.43.33:396][647]LogModuleManager: Shutting down and abandoning module SynthesisEditor (502)
+[2021.07.07-14.43.33:396][647]LogModuleManager: Shutting down and abandoning module Synthesis (500)
+[2021.07.07-14.43.33:450][647]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (498)
+[2021.07.07-14.43.33:476][647]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (496)
+[2021.07.07-14.43.33:509][647]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (494)
+[2021.07.07-14.43.33:574][647]LogModuleManager: Shutting down and abandoning module CableComponent (492)
+[2021.07.07-14.43.33:597][647]LogModuleManager: Shutting down and abandoning module GooglePAD (490)
+[2021.07.07-14.43.33:597][647]LogModuleManager: Shutting down and abandoning module EditableMesh (488)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (487)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (484)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (482)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module AppleImageUtils (480)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module AudioCapture (478)
+[2021.07.07-14.43.33:606][647]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (477)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (474)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module AssetTags (472)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module AndroidPermission (470)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (468)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (466)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module ScreenshotTools (464)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module TemplateSequence (462)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module MediaCompositing (460)
+[2021.07.07-14.43.33:620][647]LogModuleManager: Shutting down and abandoning module ImgMedia (458)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (456)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (454)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (452)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (450)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (448)
+[2021.07.07-14.43.33:633][647]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (446)
+[2021.07.07-14.43.33:643][647]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2021.07.07-14.43.33:666][647]LogModuleManager: Shutting down and abandoning module PluginBrowser (442)
+[2021.07.07-14.43.33:666][647]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (440)
+[2021.07.07-14.43.33:677][647]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (438)
+[2021.07.07-14.43.33:677][647]LogModuleManager: Shutting down and abandoning module CurveEditorTools (436)
+[2021.07.07-14.43.33:709][647]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (434)
+[2021.07.07-14.43.33:709][647]LogModuleManager: Shutting down and abandoning module CryptoKeys (432)
+[2021.07.07-14.43.33:709][647]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (430)
+[2021.07.07-14.43.33:841][647]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (428)
+[2021.07.07-14.43.33:861][647]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (426)
+[2021.07.07-14.43.33:889][647]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (424)
+[2021.07.07-14.43.33:889][647]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (422)
+[2021.07.07-14.43.33:900][647]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2021.07.07-14.43.33:900][647]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2021.07.07-14.43.33:936][647]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2021.07.07-14.43.33:936][647]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2021.07.07-14.43.33:961][647]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (412)
+[2021.07.07-14.43.33:970][647]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (410)
+[2021.07.07-14.43.33:980][647]LogModuleManager: Shutting down and abandoning module GitSourceControl (408)
+[2021.07.07-14.43.33:987][647]LogModuleManager: Shutting down and abandoning module SourceControl (407)
+[2021.07.07-14.43.33:996][647]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2021.07.07-14.43.33:996][647]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (402)
+[2021.07.07-14.43.33:996][647]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (400)
+[2021.07.07-14.43.33:996][647]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2021.07.07-14.43.33:996][647]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2021.07.07-14.43.34:011][647]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2021.07.07-14.43.34:114][647]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2021.07.07-14.43.34:127][647]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2021.07.07-14.43.34:211][647]LogModuleManager: Shutting down and abandoning module SQLiteCore (388)
+[2021.07.07-14.43.34:218][647]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (384)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module SoundFields (382)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module SignificanceManager (380)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (378)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (376)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (372)
+[2021.07.07-14.43.34:238][647]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (370)
+[2021.07.07-14.43.34:292][647]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (368)
+[2021.07.07-14.43.34:292][647]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2021.07.07-14.43.34:394][647]LogModuleManager: Shutting down and abandoning module ActorSequence (364)
+[2021.07.07-14.43.34:394][647]LogModuleManager: Shutting down and abandoning module TcpMessaging (362)
+[2021.07.07-14.43.34:509][647]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (360)
+[2021.07.07-14.43.34:509][647]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (358)
+[2021.07.07-14.43.34:509][647]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (356)
+[2021.07.07-14.43.34:509][647]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (354)
+[2021.07.07-14.43.34:537][647]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (352)
+[2021.07.07-14.43.34:604][647]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.07.07-14.43.34:605][647]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (350)
+[2021.07.07-14.43.34:605][647]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (348)
+[2021.07.07-14.43.34:605][647]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (346)
+[2021.07.07-14.43.34:608][647]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (344)
+[2021.07.07-14.43.34:608][647]LogModuleManager: Shutting down and abandoning module MagicLeapController (342)
+[2021.07.07-14.43.34:608][647]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.07.07-14.43.34:609][647]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (340)
+[2021.07.07-14.43.34:638][647]LogModuleManager: Shutting down and abandoning module MagicLeapAR (338)
+[2021.07.07-14.43.34:638][647]LogModuleManager: Shutting down and abandoning module AugmentedReality (337)
+[2021.07.07-14.43.34:654][647]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (334)
+[2021.07.07-14.43.34:654][647]LogModuleManager: Shutting down and abandoning module FacialAnimation (332)
+[2021.07.07-14.43.34:654][647]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2021.07.07-14.43.34:673][647]LogModuleManager: Shutting down and abandoning module DataValidation (328)
+[2021.07.07-14.43.34:674][647]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (326)
+[2021.07.07-14.43.34:674][647]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2021.07.07-14.43.34:706][647]LogModuleManager: Shutting down and abandoning module SignalProcessing (323)
+[2021.07.07-14.43.34:718][647]LogModuleManager: Shutting down and abandoning module NiagaraEditor (321)
+[2021.07.07-14.43.34:775][647]LogModuleManager: Shutting down and abandoning module NiagaraCore (318)
+[2021.07.07-14.43.34:775][647]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (316)
+[2021.07.07-14.43.34:789][647]LogModuleManager: Shutting down and abandoning module LevelEditor (315)
+[2021.07.07-14.43.34:882][647]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (314)
+[2021.07.07-14.43.34:900][647]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (312)
+[2021.07.07-14.43.34:900][647]LogModuleManager: Shutting down and abandoning module MainFrame (310)
+[2021.07.07-14.43.34:912][647]LogModuleManager: Shutting down and abandoning module HotReload (309)
+[2021.07.07-14.43.34:934][647]LogModuleManager: Shutting down and abandoning module ToolMenus (305)
+[2021.07.07-14.43.34:934][647]LogModuleManager: Shutting down and abandoning module ContentBrowser (303)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module ContentBrowserData (302)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module TreeMap (299)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (296)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module AnimationSharing (294)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (292)
+[2021.07.07-14.43.34:951][647]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (290)
+[2021.07.07-14.43.34:988][647]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2021.07.07-14.43.34:997][647]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2021.07.07-14.43.35:006][647]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2021.07.07-14.43.35:014][647]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (282)
+[2021.07.07-14.43.35:014][647]LogModuleManager: Shutting down and abandoning module PacketHandler (280)
+[2021.07.07-14.43.35:014][647]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (278)
+[2021.07.07-14.43.35:014][647]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (276)
+[2021.07.07-14.43.35:063][647]LogModuleManager: Shutting down and abandoning module MediaAssets (274)
+[2021.07.07-14.43.35:063][647]LogModuleManager: Shutting down and abandoning module Overlay (272)
+[2021.07.07-14.43.35:063][647]LogModuleManager: Shutting down and abandoning module OverlayEditor (271)
+[2021.07.07-14.43.35:063][647]LogModuleManager: Shutting down and abandoning module VREditor (268)
+[2021.07.07-14.43.35:113][647]LogModuleManager: Shutting down and abandoning module StringTableEditor (266)
+[2021.07.07-14.43.35:132][647]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (264)
+[2021.07.07-14.43.35:132][647]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (262)
+[2021.07.07-14.43.35:157][647]LogModuleManager: Shutting down and abandoning module FunctionalTesting (260)
+[2021.07.07-14.43.35:167][647]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (258)
+[2021.07.07-14.43.35:182][647]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (257)
+[2021.07.07-14.43.35:182][647]LogModuleManager: Shutting down and abandoning module UMG (254)
+[2021.07.07-14.43.35:200][647]LogModuleManager: Shutting down and abandoning module UMGEditor (253)
+[2021.07.07-14.43.35:216][647]LogModuleManager: Shutting down and abandoning module MessageLog (251)
+[2021.07.07-14.43.35:216][647]LogModuleManager: Shutting down and abandoning module SlateReflector (246)
+[2021.07.07-14.43.35:249][647]LogModuleManager: Shutting down and abandoning module Slate (244)
+[2021.07.07-14.43.35:249][647]LogModuleManager: Shutting down and abandoning module SlateCore (242)
+[2021.07.07-14.43.35:262][647]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (240)
+[2021.07.07-14.43.35:262][647]LogModuleManager: Shutting down and abandoning module UnrealEd (238)
+[2021.07.07-14.43.35:262][647]LogModuleManager: Shutting down and abandoning module MRMesh (236)
+[2021.07.07-14.43.35:280][647]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (234)
+[2021.07.07-14.43.35:280][647]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (232)
+[2021.07.07-14.43.35:280][647]LogModuleManager: Shutting down and abandoning module XAudio2 (230)
+[2021.07.07-14.43.35:287][647]LogModuleManager: Shutting down and abandoning module Networking (228)
+[2021.07.07-14.43.35:287][647]LogModuleManager: Shutting down and abandoning module Core (226)
+[2021.07.07-14.43.35:287][647]LogModuleManager: Shutting down and abandoning module MaterialEditor (224)
+[2021.07.07-14.43.35:365][647]LogModuleManager: Shutting down and abandoning module MovieSceneTools (222)
+[2021.07.07-14.43.35:417][647]LogModuleManager: Shutting down and abandoning module CurveEditor (221)
+[2021.07.07-14.43.35:521][647]LogModuleManager: Shutting down and abandoning module Sequencer (219)
+[2021.07.07-14.43.35:627][647]LogModuleManager: Shutting down and abandoning module EditorStyle (218)
+[2021.07.07-14.43.35:647][647]LogModuleManager: Shutting down and abandoning module KismetCompiler (214)
+[2021.07.07-14.43.35:647][647]LogModuleManager: Shutting down and abandoning module MeshBuilder (212)
+[2021.07.07-14.43.35:690][647]LogModuleManager: Shutting down and abandoning module MeshUtilities (210)
+[2021.07.07-14.43.35:703][647]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (209)
+[2021.07.07-14.43.35:714][647]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (208)
+[2021.07.07-14.43.35:714][647]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (207)
+[2021.07.07-14.43.35:719][647]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (205)
+[2021.07.07-14.43.35:749][647]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (203)
+[2021.07.07-14.43.35:771][647]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (201)
+[2021.07.07-14.43.35:779][647]LogModuleManager: Shutting down and abandoning module MaterialBaking (197)
+[2021.07.07-14.43.35:794][647]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (192)
+[2021.07.07-14.43.35:794][647]LogModuleManager: Shutting down and abandoning module DerivedDataCache (190)
+[2021.07.07-14.43.35:811][647]LogModuleManager: Shutting down and abandoning module TargetPlatform (188)
+[2021.07.07-14.43.35:857][647]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (187)
+[2021.07.07-14.43.35:962][647]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (185)
+[2021.07.07-14.43.35:990][647]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (183)
+[2021.07.07-14.43.36:022][647]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (181)
+[2021.07.07-14.43.36:039][647]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2021.07.07-14.43.36:059][647]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (177)
+[2021.07.07-14.43.36:059][647]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (175)
+[2021.07.07-14.43.36:059][647]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (173)
+[2021.07.07-14.43.36:059][647]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (171)
+[2021.07.07-14.43.36:105][647]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (169)
+[2021.07.07-14.43.36:118][647]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (167)
+[2021.07.07-14.43.36:118][647]LogModuleManager: Shutting down and abandoning module ImageWrapper (166)
+[2021.07.07-14.43.36:118][647]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (163)
+[2021.07.07-14.43.36:125][647]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (161)
+[2021.07.07-14.43.36:125][647]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (159)
+[2021.07.07-14.43.36:130][647]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (157)
+[2021.07.07-14.43.36:130][647]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (155)
+[2021.07.07-14.43.36:130][647]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (153)
+[2021.07.07-14.43.36:130][647]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (151)
+[2021.07.07-14.43.36:130][647]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (149)
+[2021.07.07-14.43.36:140][647]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (147)
+[2021.07.07-14.43.36:140][647]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (145)
+[2021.07.07-14.43.36:140][647]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (143)
+[2021.07.07-14.43.36:141][647]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (141)
+[2021.07.07-14.43.36:141][647]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2021.07.07-14.43.36:160][647]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2021.07.07-14.43.36:193][647]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2021.07.07-14.43.36:193][647]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2021.07.07-14.43.36:199][647]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2021.07.07-14.43.36:225][647]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2021.07.07-14.43.36:225][647]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2021.07.07-14.43.36:225][647]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2021.07.07-14.43.36:225][647]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2021.07.07-14.43.36:228][647]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2021.07.07-14.43.36:228][647]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2021.07.07-14.43.36:273][647]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2021.07.07-14.43.36:288][647]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2021.07.07-14.43.36:303][647]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2021.07.07-14.43.36:362][647]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2021.07.07-14.43.36:387][647]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.07.07-14.43.36:387][647]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.07.07-14.43.36:394][647]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.07.07-14.43.36:394][647]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.07.07-14.43.36:394][647]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.07.07-14.43.36:440][647]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.07.07-14.43.36:503][647]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.07.07-14.43.36:672][647]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.07.07-14.43.36:673][647]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.07.07-14.43.36:683][647]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B078F1A0B-43F6-FA85-E5AB-16A82C2C4F3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1db4e19d456d67a7cc00de92a8f4255d%7C3261ab7554e44091968f9b8520162072%7C44c07746-fbc4-4322-9237-55c450fc0afc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.07.07-14.43.36:683][647]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.07.07-14.43.36:754][647]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.07.07-14.43.36:757][647]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.07.07-14.43.36:876][647]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.07.07-14.43.36:876][647]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.07.07-14.43.36:876][647]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.07.07-14.43.36:902][647]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.07.07-14.43.36:923][647]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.07.07-14.43.36:923][647]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.07.07-14.43.36:963][647]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.07.07-14.43.36:963][647]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.07.07-14.43.36:963][647]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.07.07-14.43.36:963][647]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.07.07-14.43.36:963][647]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.07.07-14.43.36:986][647]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.07.07-14.43.36:986][647]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.07.07-14.43.37:002][647]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.07.07-14.43.37:002][647]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.07.07-14.43.37:002][647]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.07.07-14.43.37:002][647]LogXGEController: Cleaning working directory: C:/Users/Oswal/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.07.07-14.43.37:002][647]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.07.07-14.43.37:011][647]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.07.07-14.43.37:029][647]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.07.07-14.43.37:029][647]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.07.07-14.43.37:045][647]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.07.07-14.43.37:045][647]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.07.07-14.43.37:045][647]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.07.07-14.43.37:083][647]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.07.07-14.43.37:107][647]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.07.07-14.43.37:107][647]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.07.07-14.43.37:160][647]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.07.07-14.43.37:160][647]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.07.07-14.43.37:176][647]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.07.07-14.43.37:176][647]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.07.07-14.43.37:192][647]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.07.07-14.43.37:192][647]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.07.07-14.43.37:201][647]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.07.07-14.43.37:237][647]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.07.07-14.43.37:237][647]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.07.07-14.43.37:344][647]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.07-14.43.37:347][647]LogD3D11RHI: Shutdown
+[2021.07.07-14.43.37:347][647]LogD3D11RHI: CleanupD3DDevice
+[2021.07.07-14.43.38:015][647]LogExit: Exiting.
+[2021.07.07-14.43.38:083][647]Log file closed, 07/07/21 09:43:38
