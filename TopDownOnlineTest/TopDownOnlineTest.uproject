@@ -24,20 +24,12 @@
 		},
 		{
 			"Name": "AutoSizeComments",
-<<<<<<< HEAD
 			"Enabled": false,
-=======
-			"Enabled": true,
->>>>>>> b30da3cc65103062af2581a4d65e2301a8996833
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		},
 		{
 			"Name": "GraphFormatter",
-<<<<<<< HEAD
 			"Enabled": false,
-=======
-			"Enabled": true,
->>>>>>> b30da3cc65103062af2581a4d65e2301a8996833
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
 		}
 	]
