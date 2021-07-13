@@ -797,3 +797,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.13-17.41.29:791][216]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.13-17.41.29:791][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.07.13-17.41.29:792][216]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.13-17.50.21:976][564]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CARPETAS_DE_DESARROLLO/Oswaldo/Item/BP_Battery.BP_Battery
+[2021.07.13-17.50.22:205][564]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.13-17.50.25:270][666]LogSlate: Window 'BP_Battery' being destroyed
+[2021.07.13-17.50.25:290][666]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-17.50.25:290][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.13-17.50.25:369][666]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CARPETAS_DE_DESARROLLO/Oswaldo/Item/BP_Battery.BP_Battery
+[2021.07.13-17.50.25:807][666]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.07.13-17.50.25:807][666]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.07.13-17.50.26:260][666]LogSlate: Took 0.017687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.13-17.50.32:801][ 21]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BP_Battery8BDF24D24E01DAE7B4497A93781B354A.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/_CARPETAS_DE_DESARROLLO/Oswaldo/Item/BP_Battery.uasset'
+[2021.07.13-17.50.32:820][ 21]AssetCheck: New page: Asset Save: BP_Battery
+[2021.07.13-17.50.32:820][ 21]LogContentValidation: Display: Validating Blueprint /Game/_CARPETAS_DE_DESARROLLO/Oswaldo/Item/BP_Battery.BP_Battery
+[2021.07.13-17.50.33:768][ 74]LogSlate: Window 'BP_Battery' being destroyed
+[2021.07.13-17.50.33:780][ 74]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.13-17.50.33:780][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
