@@ -2796,3 +2796,1155 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.15-17.06.52:103][ 80]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.15-17.06.52:103][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Masters/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.07.15-17.06.52:104][ 80]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.15-17.16.51:729][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.07.15-17.16.51:730][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.065
+[2021.07.15-17.16.51:730][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy] ([1] browsable assets)...
+[2021.07.15-17.16.51:760][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.Enemy]
+[2021.07.15-17.16.51:761][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy]
+[2021.07.15-17.16.51:802][454]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Enemy_Auto253DE204F42914111E77A488C3B31995B.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy_Auto2.uasset'
+[2021.07.15-17.16.51:802][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MGNV/DiegoYHector/Enemy/Animations/enemy_animations] ([1] browsable assets)...
+[2021.07.15-17.16.51:803][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/MGNV/DiegoYHector/Enemy/Animations/enemy_animations]
+[2021.07.15-17.16.51:829][454]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/enemy_animations_Auto2389BD0694A846A15070A8E87EF359AE0.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/MGNV/DiegoYHector/Enemy/Animations/enemy_animations_Auto2.uasset'
+[2021.07.15-17.16.51:907][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/BTTask_Hit] ([1] browsable assets)...
+[2021.07.15-17.16.51:907][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/BTTask_Hit]
+[2021.07.15-17.16.51:912][454]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BTTask_Hit_Auto25CC9E7BA4CD611143AE8F6BC0A425866.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/MGNV/DiegoYHector/Enemy/Blueprints/BTTask_Hit_Auto2.uasset'
+[2021.07.15-17.16.51:913][454]LogFileHelpers: Auto-saving content packages took 0.183
+[2021.07.15-17.17.40:800][737]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-17.17.40:811][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-17.17.40:811][737]PIE: New page: PIE session: TopDownExampleMap (Jul 15, 2021, 7:17:40 AM)
+[2021.07.15-17.17.40:812][737]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.15-17.17.40:827][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015732s)
+[2021.07.15-17.17.40:829][737]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.15-17.17.40:829][737]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2021.07.15-17.17.40:829][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017372s)
+[2021.07.15-17.17.40:884][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.07.15-17.17.40:885][737]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.07.15-17.17.40:885][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-17.17.40:886][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-17.17.40:886][737]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-17.17.40:886][737]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-17.17.40:892][737]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-17.17.40:892][737]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-17.17.40:922][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-17.17.40:922][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-17.17.40:938][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-17.17.40:938][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-17.17.40:938][737]LogInit: FAudioDevice initialized.
+[2021.07.15-17.17.40:938][737]LogAudio: Display: Audio Device (ID: 16) registered with world 'TopDownExampleMap'.
+[2021.07.15-17.17.40:948][737]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.15-17.17.40:951][737]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.15-12.17.40
+[2021.07.15-17.17.40:952][737]LogWorld: Bringing up level for play took: 0.002640
+[2021.07.15-17.17.40:952][737]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.07.15-17.17.40:955][737]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.15-17.17.40:955][737]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.15-17.17.40:955][737]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.15-17.17.40:955][737]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.15-17.17.40:955][737]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.17.40:955][737]LogNet: GameNetDriver IpNetDriver_14 IpNetDriver listening on port 17777
+[2021.07.15-17.17.40:957][737]PIE: Server logged in
+[2021.07.15-17.17.40:958][737]PIE: Play in editor total start time 0.15 seconds.
+[2021.07.15-17.17.40:959][737]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-17.17.40:959][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-17.17.40:959][737]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-17.17.40:959][737]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-17.17.40:964][737]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-17.17.40:964][737]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-17.17.40:992][737]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.15-17.17.40:992][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-17.17.40:992][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-17.17.40:992][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-17.17.40:992][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-17.17.40:993][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-17.17.40:993][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-17.17.41:008][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-17.17.41:008][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-17.17.41:008][737]LogInit: FAudioDevice initialized.
+[2021.07.15-17.17.41:008][737]LogAudio: Display: Audio Device (ID: 17) registered with world 'Untitled'.
+[2021.07.15-17.17.41:068][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.17.41:068][737]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.15-17.17.41:068][737]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.15-17.17.41:068][737]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.15-17.17.41:069][737]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.17.41:069][737]LogNet: Game client on port 17777, rate 100000
+[2021.07.15-17.17.41:086][737]PIE: Client logged in
+[2021.07.15-17.17.41:092][737]PIE: Play in editor total start time 0.286 seconds.
+[2021.07.15-17.17.42:098][788]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63686
+[2021.07.15-17.17.42:098][788]LogHandshake: SendConnectChallenge. Timestamp: 1.315581, Cookie: 078064032125249129001184140217129104160037027191193253218190
+[2021.07.15-17.17.42:099][788]LogHandshake: SendChallengeResponse. Timestamp: 1.315581, Cookie: 078064032125249129001184140217129104160037027191193253218190
+[2021.07.15-17.17.42:115][789]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63686
+[2021.07.15-17.17.42:115][789]LogHandshake: SendChallengeAck. InCookie: 078064032125249129001184140217129104160037027191193253218190
+[2021.07.15-17.17.42:115][789]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63686
+[2021.07.15-17.17.42:115][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.17.42:115][789]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/15/21 12:17:42, [UNetConnection] RemoteAddr: 127.0.0.1:63686, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.17.42:115][789]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63686, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.17.42:116][789]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: PendingNetDriver IpNetDriver_15, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.17.42:131][790]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.15-17.17.42:131][790]LogNet: Remote platform little endian=1
+[2021.07.15-17.17.42:131][790]LogNet: This platform little endian=1
+[2021.07.15-17.17.42:132][790]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.07.15-17.17.42:148][791]LogNet: Login request: ?Name=MSI-47F9B0C749C2C03CDEDDD08049500339 userId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339 platform: NULL
+[2021.07.15-17.17.42:149][791]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.15-17.17.42:149][791]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.15-17.17.42:149][791]LogWorld: BeginTearingDown for /Temp/Untitled_8
+[2021.07.15-17.17.42:149][791]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.17.42:149][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.17.42:200][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-17.17.42:205][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.07.15-17.17.42:221][791]LogAudio: Display: Audio Device (ID: 17) registered with world 'TopDownExampleMap'.
+[2021.07.15-17.17.42:222][791]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.15-17.17.42:233][791]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.15-12.17.42
+[2021.07.15-17.17.42:233][791]LogWorld: Bringing up level for play took: 0.010082
+[2021.07.15-17.17.42:234][791]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.15-17.17.42:234][791]LogLoad: Took 0.084625 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.15-17.17.42:234][791]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.15-17.17.42:270][792]LogNet: Client netspeed is 100000
+[2021.07.15-17.17.42:270][792]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-47F9B0C749C2C03CDEDDD08049500339?SplitscreenCount=1
+[2021.07.15-17.17.42:270][792]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.17.42:272][792]LogNet: Join succeeded: MSI-47F9B0C749C2C03C
+[2021.07.15-17.17.42:310][794]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.17.42:310][794]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.17.43:815][884]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.44:817][944]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.45:318][974]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.45:821][  4]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.46:326][ 31]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.47:330][ 91]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.47:833][121]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.48:032][133]PIE: Warning: Invalid Simulate Options: Body (BP_Weapont_LaserGun_2.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.48:032][133]PIE: Warning: Invalid Simulate Options: Body (BP_Weapont_LaserGun_2.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.48:334][151]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.48:552][163]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.17.48:552][163]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.17.48:838][180]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.48:901][183]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Proyectil_C_0. Function SRV_BeginPlay will not be processed.
+[2021.07.15-17.17.49:329][206]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Proyectil_C_0. Function SRV_OnHitOrOverlap will not be processed.
+[2021.07.15-17.17.49:344][207]LogBlueprintUserMessages: [Enemy_2] Server: Entro
+[2021.07.15-17.17.49:344][207]LogBlueprintUserMessages: [Enemy_2] Server: Muerto
+[2021.07.15-17.17.49:345][207]PIE: Warning: Invalid Simulate Options: Body (Proyectil_C_0.Icosaedro icosahedron) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.49:345][207]PIE: Warning: Invalid Simulate Options: Body (Proyectil_C_0.Icosaedro icosahedron) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.49:345][207]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.49:346][207]PIE: Warning: Invalid Simulate Options: Body (Proyectil_C_0.Icosaedro icosahedron) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.49:346][207]PIE: Warning: Invalid Simulate Options: Body (Proyectil_C_0.Icosaedro icosahedron) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.17.49:861][237]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.50:367][267]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.50:871][297]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.51:378][327]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.17.52:302][382]LogNet: Warning: UNetDriver::ProcessRemoteFunction: Remote function MCast_InOutLight called from actor Enemy_2 while actor is being destroyed. Function will not be processed.
+[2021.07.15-17.17.52:304][382]LogNet: Warning: UNetDriver::ProcessRemoteFunction: Remote function InOutLight called from actor Enemy_2 while actor is being destroyed. Function will not be processed.
+[2021.07.15-17.17.52:304][382]LogNet: Warning: UNetDriver::ProcessRemoteFunction: Remote function InOutLight called from actor Enemy_2 while actor is being destroyed. Function will not be processed.
+[2021.07.15-17.18.44:609][ 39]PIE: Warning: Invalid Simulate Options: Body (BP_Battery_11.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.18.44:609][ 39]PIE: Warning: Invalid Simulate Options: Body (BP_Battery_11.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.18.47:836][231]PIE: Warning: Invalid Simulate Options: Body (BP_Battery_11.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.18.47:836][231]PIE: Warning: Invalid Simulate Options: Body (BP_Battery_11.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.18.49:471][319]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_SpaceDoor_3. Function SRV_SwitchON will not be processed.
+[2021.07.15-17.18.49:495][320]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_SpaceDoor_3. Function SRV_OpenDoor will not be processed.
+[2021.07.15-17.18.50:618][386]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_SpaceDoor_3. Function SRV_CloseDoor will not be processed.
+[2021.07.15-17.18.53:195][538]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_SpaceDoor_3. Function SRV_OpenDoor will not be processed.
+[2021.07.15-17.18.57:805][810]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_SpaceDoor_3. Function SRV_CloseDoor will not be processed.
+[2021.07.15-17.19.16:215][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.16:215][898]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.15-17.19.16:215][898]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.15-17.19.16:220][898]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.19.16:221][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.16:229][898]LogNet: World NetDriver shutdown IpNetDriver_15 [GameNetDriver]
+[2021.07.15-17.19.16:229][898]LogNet: DestroyNamedNetDriver IpNetDriver_15 [GameNetDriver]
+[2021.07.15-17.19.16:229][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339, Channels: 21, Time: 2021.07.15-17.19.16
+[2021.07.15-17.19.16:229][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_14, Driver: GameNetDriver IpNetDriver_15, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339
+[2021.07.15-17.19.16:230][898]LogExit: GameNetDriver IpNetDriver_15 shut down
+[2021.07.15-17.19.16:230][898]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.15-17.19.16:231][898]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.15-17.19.16:231][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.16:231][898]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.19.16:232][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.16:240][898]LogNet: World NetDriver shutdown IpNetDriver_14 [GameNetDriver]
+[2021.07.15-17.19.16:240][898]LogNet: DestroyNamedNetDriver IpNetDriver_14 [GameNetDriver]
+[2021.07.15-17.19.16:240][898]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63686, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339
+[2021.07.15-17.19.16:240][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63686, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339, Channels: 21, Time: 2021.07.15-17.19.16
+[2021.07.15-17.19.16:240][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63686, Name: IpConnection_15, Driver: GameNetDriver IpNetDriver_14, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-47F9B0C749C2C03CDEDDD08049500339
+[2021.07.15-17.19.16:241][898]LogExit: GameNetDriver IpNetDriver_14 shut down
+[2021.07.15-17.19.16:242][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-17.19.16:269][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.16:337][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-17.19.16:338][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.19.16:339][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.19.16:388][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.16:389][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-17.19.16:389][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.19.16:390][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.19.16:454][898]LogUObjectHash: Compacting FUObjectHashTables data took  11.72ms
+[2021.07.15-17.19.16:659][899]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.07.15-17.19.16:659][899]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.07.15-17.19.17:923][960]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-17.19.17:933][960]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-17.19.19:684][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.07.15-17.19.20:438][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_SpaceDoor_C (BP_SpaceDoor)
+[2021.07.15-17.19.21:768][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/PuzzleChild/BP_SpaceDoor.BP_SpaceDoor
+[2021.07.15-17.19.48:978][347]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-17.19.48:993][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-17.19.48:993][347]PIE: New page: PIE session: TopDownExampleMap (Jul 15, 2021, 7:19:48 AM)
+[2021.07.15-17.19.48:993][347]LogPlayLevel: Creating play world package: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.15-17.19.49:014][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021127s)
+[2021.07.15-17.19.49:016][347]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.15-17.19.49:016][347]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2021.07.15-17.19.49:016][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023033s)
+[2021.07.15-17.19.49:106][347]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2021.07.15-17.19.49:107][347]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.07.15-17.19.49:107][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-17.19.49:107][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-17.19.49:107][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-17.19.49:107][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-17.19.49:108][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-17.19.49:108][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-17.19.49:108][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-17.19.49:108][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-17.19.49:108][347]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-17.19.49:108][347]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-17.19.49:117][347]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-17.19.49:117][347]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-17.19.49:163][347]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.15-17.19.49:163][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-17.19.49:163][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-17.19.49:164][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-17.19.49:164][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-17.19.49:164][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-17.19.49:164][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-17.19.49:189][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-17.19.49:189][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-17.19.49:189][347]LogInit: FAudioDevice initialized.
+[2021.07.15-17.19.49:189][347]LogAudio: Display: Audio Device (ID: 18) registered with world 'TopDownExampleMap'.
+[2021.07.15-17.19.49:197][347]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.15-17.19.49:201][347]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.15-12.19.49
+[2021.07.15-17.19.49:201][347]LogWorld: Bringing up level for play took: 0.003373
+[2021.07.15-17.19.49:201][347]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.07.15-17.19.49:206][347]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.07.15-17.19.49:206][347]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.07.15-17.19.49:206][347]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.07.15-17.19.49:206][347]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.07.15-17.19.49:206][347]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.19.49:206][347]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 17777
+[2021.07.15-17.19.49:209][347]PIE: Server logged in
+[2021.07.15-17.19.49:210][347]PIE: Play in editor total start time 0.222 seconds.
+[2021.07.15-17.19.49:212][347]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-17.19.49:213][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-17.19.49:213][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-17.19.49:214][347]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-17.19.49:215][347]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-17.19.49:227][347]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-17.19.49:227][347]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-17.19.49:294][347]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.07.15-17.19.49:295][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-17.19.49:295][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-17.19.49:295][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-17.19.49:296][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-17.19.49:296][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-17.19.49:296][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-17.19.49:346][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-17.19.49:346][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-17.19.49:346][347]LogInit: FAudioDevice initialized.
+[2021.07.15-17.19.49:346][347]LogAudio: Display: Audio Device (ID: 19) registered with world 'Untitled'.
+[2021.07.15-17.19.49:414][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.49:414][347]LogNet: Browse: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/TopDownExampleMap
+[2021.07.15-17.19.49:415][347]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.07.15-17.19.49:415][347]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.07.15-17.19.49:416][347]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.19.49:416][347]LogNet: Game client on port 17777, rate 100000
+[2021.07.15-17.19.49:425][347]PIE: Client logged in
+[2021.07.15-17.19.49:433][347]PIE: Play in editor total start time 0.445 seconds.
+[2021.07.15-17.19.50:447][383]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54020
+[2021.07.15-17.19.50:447][383]LogHandshake: SendConnectChallenge. Timestamp: 1.484635, Cookie: 126217216046221164254073248041054077215134005181095150003055
+[2021.07.15-17.19.50:449][383]LogHandshake: SendChallengeResponse. Timestamp: 1.484635, Cookie: 126217216046221164254073248041054077215134005181095150003055
+[2021.07.15-17.19.50:464][384]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54020
+[2021.07.15-17.19.50:464][384]LogHandshake: SendChallengeAck. InCookie: 126217216046221164254073248041054077215134005181095150003055
+[2021.07.15-17.19.50:464][384]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54020
+[2021.07.15-17.19.50:464][384]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.07.15-17.19.50:464][384]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 07/15/21 12:19:50, [UNetConnection] RemoteAddr: 127.0.0.1:54020, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.19.50:464][384]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54020, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.19.50:467][384]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.07.15-17.19.50:480][385]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap: Accepted
+[2021.07.15-17.19.50:480][385]LogNet: Remote platform little endian=1
+[2021.07.15-17.19.50:480][385]LogNet: This platform little endian=1
+[2021.07.15-17.19.50:483][385]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.07.15-17.19.50:499][386]LogNet: Login request: ?Name=MSI-F8D25A35427D306DA824A18D74E295BE userId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE platform: NULL
+[2021.07.15-17.19.50:502][386]LogNet: Welcomed by server (Level: /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap, Game: /Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2021.07.15-17.19.50:502][386]LogLoad: LoadMap: 127.0.0.1:17777/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap?game=/Game/Masters/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2021.07.15-17.19.50:502][386]LogWorld: BeginTearingDown for /Temp/Untitled_9
+[2021.07.15-17.19.50:503][386]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.19.50:503][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.50:597][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-17.19.50:606][386]LogUObjectHash: Compacting FUObjectHashTables data took   8.84ms
+[2021.07.15-17.19.50:636][386]LogAudio: Display: Audio Device (ID: 19) registered with world 'TopDownExampleMap'.
+[2021.07.15-17.19.50:638][386]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.15-17.19.50:656][386]LogWorld: Bringing World /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.07.15-12.19.50
+[2021.07.15-17.19.50:657][386]LogWorld: Bringing up level for play took: 0.017246
+[2021.07.15-17.19.50:657][386]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.15-17.19.50:658][386]LogLoad: Took 0.155829 seconds to LoadMap(/Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2021.07.15-17.19.50:658][386]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.07.15-17.19.50:719][387]LogNet: Client netspeed is 100000
+[2021.07.15-17.19.50:719][387]LogNet: Join request: /Game/Masters/TopDownBP/Maps/TopDownExampleMap?Name=MSI-F8D25A35427D306DA824A18D74E295BE?SplitscreenCount=1
+[2021.07.15-17.19.50:720][387]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.19.50:725][387]LogNet: Join succeeded: MSI-F8D25A35427D306D
+[2021.07.15-17.19.50:795][389]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.19.50:799][389]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.07.15-17.19.51:933][441]PIE: Warning: Invalid Simulate Options: Body (BP_Item_Lantern_2.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.19.51:933][441]PIE: Warning: Invalid Simulate Options: Body (BP_Item_Lantern_2.Collide) is set to simulate physics but Collision Enabled is incompatible
+[2021.07.15-17.19.52:763][484]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.53:278][508]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.53:790][532]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.54:299][553]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.54:802][573]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.55:311][594]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.55:817][615]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.56:327][639]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.56:834][660]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.57:334][681]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.57:841][702]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.58:251][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:251][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:252][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:252][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:282][720]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:283][720]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:315][721]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:316][721]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:316][721]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:316][721]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:354][723]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.58:532][730]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:533][730]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:615][733]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:616][733]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:673][735]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:673][735]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:735][737]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:736][737]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:764][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:765][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:765][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:765][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:765][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:766][738]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:796][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:796][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:797][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:797][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:797][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:797][739]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:874][742]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.58:910][743]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:911][743]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:943][744]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.58:943][744]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:044][748]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:044][748]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:070][749]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:070][749]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:071][749]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:071][749]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:096][750]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:096][750]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:123][751]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:123][751]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:375][760]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:375][760]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:400][761]LogBlueprintUserMessages: [Enemy_2] Server: Agregado
+[2021.07.15-17.19.59:403][761]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:404][761]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:433][762]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:434][762]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:435][762]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:435][762]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:462][763]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:462][763]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:590][767]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:590][767]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:646][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:646][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:647][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:647][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:648][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:648][769]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:676][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:676][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:676][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:677][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:677][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:677][770]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:707][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Enemy_2. Function InOutLight will not be processed.
+[2021.07.15-17.19.59:880][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.59:880][776]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2021.07.15-17.19.59:881][776]LogSlate: Window 'TopDownOnlineTest Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2021.07.15-17.19.59:886][776]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.19.59:889][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.59:899][776]LogNet: World NetDriver shutdown IpNetDriver_17 [GameNetDriver]
+[2021.07.15-17.19.59:899][776]LogNet: DestroyNamedNetDriver IpNetDriver_17 [GameNetDriver]
+[2021.07.15-17.19.59:899][776]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE, Channels: 22, Time: 2021.07.15-17.19.59
+[2021.07.15-17.19.59:899][776]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: TopDownController_C_0, Owner: TopDownController_C_0, UniqueId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE
+[2021.07.15-17.19.59:900][776]LogExit: GameNetDriver IpNetDriver_17 shut down
+[2021.07.15-17.19.59:903][776]LogWorld: BeginTearingDown for /Game/Masters/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.15-17.19.59:903][776]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.07.15-17.19.59:904][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.19.59:904][776]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.19.59:906][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.19.59:958][776]LogNet: World NetDriver shutdown IpNetDriver_16 [GameNetDriver]
+[2021.07.15-17.19.59:958][776]LogNet: DestroyNamedNetDriver IpNetDriver_16 [GameNetDriver]
+[2021.07.15-17.19.59:958][776]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54020, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE
+[2021.07.15-17.19.59:958][776]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54020, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE, Channels: 22, Time: 2021.07.15-17.19.59
+[2021.07.15-17.19.59:958][776]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54020, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: TopDownController_C_1, Owner: TopDownController_C_1, UniqueId: NULL:MSI-F8D25A35427D306DA824A18D74E295BE
+[2021.07.15-17.19.59:959][776]LogExit: GameNetDriver IpNetDriver_16 shut down
+[2021.07.15-17.19.59:960][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-17.19.59:999][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.20.00:127][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.20.00:129][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.20.00:196][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-17.20.00:197][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.20.00:198][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.20.00:288][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-17.20.00:315][776]LogUObjectHash: Compacting FUObjectHashTables data took  16.97ms
+[2021.07.15-17.20.00:620][777]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.07.15-17.20.00:620][777]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.07.15-17.20.01:635][811]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-17.20.01:654][811]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-17.20.13:753][348]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_22:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.20.15:132][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.15-17.20.15:762][386]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.44:570][918]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:731][453]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:747][454]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:764][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:781][456]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:798][457]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:815][458]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:831][459]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:848][460]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:865][461]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:882][462]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:898][463]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:915][464]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.22.53:936][465]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.23.14:109][649]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.15-17.23.14:740][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.14:859][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.16:897][755]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.15-17.23.17:102][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.17:105][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.20:155][928]LogEditorTransaction: Redo Modify Component(s)
+[2021.07.15-17.23.20:409][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.20:413][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.15-17.23.26:308][270]BlueprintLog: New page: Compile TopDownCharacter
+[2021.07.15-17.23.26:662][270]LogUObjectHash: Compacting FUObjectHashTables data took  11.66ms
+[2021.07.15-17.23.26:730][270]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_22:PersistentLevel.TopDownCharacter_C_1
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.23.26:773][270]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_22:PersistentLevel.TopDownCharacter_C_1
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.15-17.23.27:085][270]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownCharacter5ECEFD54404BD600CDD48EB5980C607B.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.07.15-17.23.27:148][270]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.07.15-17.23.27:149][270]LogContentValidation: Display: Validating Blueprint /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.07.15-17.28.38:516][501]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2021.07.15-17.28.38:864][501]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_Auto354E822E5485E9CCB28BF71979F65416F.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2021.07.15-17.28.38:878][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.440
+[2021.07.15-17.28.38:878][501]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.440
+[2021.07.15-17.28.38:879][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy] ([1] browsable assets)...
+[2021.07.15-17.28.38:914][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.Enemy]
+[2021.07.15-17.28.38:914][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy]
+[2021.07.15-17.28.38:964][501]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Enemy_Auto3D464B77D4BFFBF3A9383CB8F3FCE33A3.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy_Auto3.uasset'
+[2021.07.15-17.28.38:964][501]LogFileHelpers: Auto-saving content packages took 0.087
+[2021.07.15-17.46.51:959][ 28]BlueprintLog: New page: Compile enemy_animations
+[2021.07.15-17.46.52:367][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.07.15-17.46.52:452][ 28]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/enemy_animationsC7B7197A43FC59DC20F2F9A906696C81.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/MGNV/DiegoYHector/Enemy/Animations/enemy_animations.uasset'
+[2021.07.15-17.46.52:483][ 28]AssetCheck: New page: Asset Save: enemy_animations
+[2021.07.15-17.46.52:483][ 28]LogContentValidation: Display: Validating AnimBlueprint /Game/MGNV/DiegoYHector/Enemy/Animations/enemy_animations.enemy_animations
+[2021.07.15-17.47.08:493][354]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/IdleWalk5FD6056B4D728A2C7C52ED8F2D9F16C3.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/MGNV/DiegoYHector/Enemy/Animations/IdleWalk.uasset'
+[2021.07.15-17.47.08:514][354]AssetCheck: New page: Asset Save: IdleWalk
+[2021.07.15-17.47.08:514][354]LogContentValidation: Display: Validating BlendSpace1D /Game/MGNV/DiegoYHector/Enemy/Animations/IdleWalk.IdleWalk
+[2021.07.15-17.47.10:482][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.07.15-17.47.10:566][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.15-17.47.10:591][469]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap004EB92348C81D10B6AC74B775462D9A.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.15-17.47.10:602][469]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.090
+[2021.07.15-17.47.10:635][469]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Enemy3C14435C459064961CEFAF9D77BFB288.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.uasset'
+[2021.07.15-17.47.10:936][469]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/EnemyBehaviourTreeAF6D3E084EC9292AE9C4348DC59A565E.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/MGNV/DiegoYHector/Enemy/Blueprints/EnemyBehaviourTree.uasset'
+[2021.07.15-17.47.10:944][469]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/BTTask_Hit9E3556E64B16EE561864BE868700FBD9.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Content/MGNV/DiegoYHector/Enemy/Blueprints/BTTask_Hit.uasset'
+[2021.07.15-17.47.10:981][469]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-17.47.10:981][469]LogContentValidation: Display: Validating Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.Enemy
+[2021.07.15-17.47.10:981][469]LogContentValidation: Display: Validating Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/BTTask_Hit.BTTask_Hit
+[2021.07.15-17.47.10:981][469]LogContentValidation: Display: Validating BehaviorTree /Game/MGNV/DiegoYHector/Enemy/Blueprints/EnemyBehaviourTree.EnemyBehaviourTree
+[2021.07.15-17.47.10:982][469]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.15-17.47.12:259][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.07.15-17.47.12:281][538]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:281][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.12:487][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.15-17.47.12:487][538]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:487][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.12:592][538]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:592][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.12:659][538]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:659][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.12:820][538]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:820][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.12:975][538]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.12:975][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:077][538]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:077][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:107][538]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:108][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:125][538]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:125][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:239][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.15-17.47.13:239][538]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:239][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:306][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.15-17.47.13:306][538]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:306][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:363][538]LogSlate: Window 'BP_SpaceDoor' being destroyed
+[2021.07.15-17.47.13:370][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.15-17.47.13:370][538]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:370][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:429][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.15-17.47.13:429][538]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.13:429][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-17.47.13:549][538]LogSlate: Window 'TopDownOnlineTest - Unreal Editor' being destroyed
+[2021.07.15-17.47.13:549][538]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.15-17.47.13:739][539]Cmd: QUIT_EDITOR
+[2021.07.15-17.47.13:739][539]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.15-17.47.13:800][539]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.15-17.47.14:637][539]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.15-17.47.14:637][539]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.15-17.47.14:637][539]LogAudio: Display: Audio Device unregistered from world 'TopDownExampleMap'.
+[2021.07.15-17.47.14:637][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.47.14:638][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-17.47.14:849][539]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.15-17.47.14:878][539]LogExit: Preparing to exit.
+[2021.07.15-17.47.15:133][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CCC00] Windows
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CCD00] Default__DeviceProfile
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956200] WindowsNoEditor
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CCB00] WindowsServer
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937F00] WindowsClient
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956C00] IOS
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936600] iPadAir
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955E00] iPadAir2
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901100] IPadPro
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901200] iPadAir3
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4957100] iPadAir4
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4902800] iPadMini2
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4957600] iPadMini3
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903700] iPadMini4
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955700] iPadMini5
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937900] iPhone6
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937800] iPodTouch6
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD500] iPhone7
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD400] iPodTouch7
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954300] iPhone5S
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4935100] iPhone6Plus
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956600] iPhone6S
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4935400] iPhone6SPlus
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954200] iPhone7Plus
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936500] iPhoneSE
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955300] iPhone8
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937100] iPhone8Plus
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956100] iPhoneX
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934D00] iPhoneXS
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954100] iPhoneXSMax
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934500] iPhoneXR
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954A00] iPhone11
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934300] iPhone11Pro
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CE300] iPhone11ProMax
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936B00] iPhoneSE2
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD800] iPhone12Mini
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934100] iPhone12
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CE000] iPhone12Pro
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937400] iPhone12ProMax
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CE900] iPadPro105
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936C00] iPadPro129
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CDE00] iPadPro97
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934A00] iPadPro2_129
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CE400] iPad5
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4934800] iPad6
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD000] iPad7
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937A00] iPad8
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CCA00] iPadPro11
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937200] iPadPro2_11
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD900] iPadPro3_129
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4935600] iPadPro4_129
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CC800] AppleTV
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937B00] AppleTV4K
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CCE00] TVOS
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4935E00] Mac
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CC600] MacClient
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936000] MacNoEditor
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CC200] MacServer
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4936900] Linux
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CDC00] LinuxAArch64
+[2021.07.15-17.47.15:801][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937D00] LinuxNoEditor
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CC100] LinuxAArch64NoEditor
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4937500] LinuxClient
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE39CD300] LinuxAArch64Client
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901600] LinuxServer
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956500] LinuxAArch64Server
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900B00] Android
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956400] Android_Low
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903D00] Android_Mid
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955200] Android_High
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900200] Android_Default
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954600] Android_Adreno4xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901500] Android_Adreno5xx_Low
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955F00] Android_Adreno5xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901D00] Android_Adreno6xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954700] Android_Adreno6xx_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903200] Android_Mali_T6xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956B00] Android_Mali_T7xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901E00] Android_Mali_T8xx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954B00] Android_Mali_G71
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903E00] Android_Mali_G72
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4954D00] Android_Mali_G72_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4902300] Android_Mali_G76
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955000] Android_Mali_G76_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900700] Android_Mali_G77
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4957800] Android_Mali_G77_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900800] Android_Vulkan_SM5
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4957000] Android_PowerVR_G6xxx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4901800] Android_PowerVR_GT7xxx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4956E00] Android_PowerVR_GE8xxx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900E00] Android_PowerVR_GM9xxx
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955900] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4900100] Android_TegraK1
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955600] Android_Unknown_Vulkan
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903100] Lumin
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4955500] Lumin_Desktop
+[2021.07.15-17.47.15:802][539]LogDeviceProfile: Device profile begin destroy: [000001ACE4903C00] HoloLens
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:485][539]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:489][539]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:492][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:492][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:492][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:492][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:493][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:493][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:493][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:493][539]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:496][539]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:499][539]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:503][539]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:506][539]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:510][539]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.16:513][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:513][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:513][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:513][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:514][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:514][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:514][539]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.07.15-17.47.16:514][539]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.17:000][539]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.15-17.47.17:326][539]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-17.47.17:327][539]LogExit: Editor shut down
+[2021.07.15-17.47.17:329][539]LogExit: Transaction tracking system shut down
+[2021.07.15-17.47.19:972][539]LogExit: Object subsystem successfully closed.
+[2021.07.15-17.47.20:195][539]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.15-17.47.21:975][539]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (832)
+[2021.07.15-17.47.21:981][539]LogModuleManager: Shutting down and abandoning module PinnedCommandList (830)
+[2021.07.15-17.47.21:982][539]LogModuleManager: Shutting down and abandoning module SkeletonEditor (828)
+[2021.07.15-17.47.21:982][539]LogModuleManager: Shutting down and abandoning module AnimationEditor (826)
+[2021.07.15-17.47.21:982][539]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2021.07.15-17.47.21:982][539]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2021.07.15-17.47.21:994][539]LogModuleManager: Shutting down and abandoning module BlueprintGraph (818)
+[2021.07.15-17.47.22:014][539]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2021.07.15-17.47.22:014][539]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2021.07.15-17.47.22:025][539]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2021.07.15-17.47.22:025][539]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2021.07.15-17.47.22:025][539]LogModuleManager: Shutting down and abandoning module SceneOutliner (808)
+[2021.07.15-17.47.22:025][539]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2021.07.15-17.47.22:053][539]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2021.07.15-17.47.22:061][539]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2021.07.15-17.47.22:071][539]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2021.07.15-17.47.22:071][539]LogModuleManager: Shutting down and abandoning module GooglePADEditor (798)
+[2021.07.15-17.47.22:071][539]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (796)
+[2021.07.15-17.47.22:071][539]LogModuleManager: Shutting down and abandoning module TextureAlignMode (794)
+[2021.07.15-17.47.22:071][539]LogModuleManager: Shutting down and abandoning module BspMode (792)
+[2021.07.15-17.47.22:089][539]LogModuleManager: Shutting down and abandoning module GeometryMode (790)
+[2021.07.15-17.47.22:102][539]LogModuleManager: Shutting down and abandoning module PlanarCut (788)
+[2021.07.15-17.47.22:118][539]LogModuleManager: Shutting down and abandoning module CharacterAI (786)
+[2021.07.15-17.47.22:118][539]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (784)
+[2021.07.15-17.47.22:129][539]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (782)
+[2021.07.15-17.47.22:144][539]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (780)
+[2021.07.15-17.47.22:209][539]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2021.07.15-17.47.22:209][539]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2021.07.15-17.47.22:209][539]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
+[2021.07.15-17.47.22:216][539]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (772)
+[2021.07.15-17.47.22:229][539]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (768)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (766)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (764)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (762)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (760)
+[2021.07.15-17.47.22:246][539]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (758)
+[2021.07.15-17.47.22:259][539]LogModuleManager: Shutting down and abandoning module SequenceRecorder (757)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (754)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (752)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (750)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (748)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (746)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (744)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (742)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module SmartSnapping (740)
+[2021.07.15-17.47.22:264][539]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (738)
+[2021.07.15-17.47.22:273][539]LogModuleManager: Shutting down and abandoning module SessionServices (736)
+[2021.07.15-17.47.22:273][539]LogModuleManager: Shutting down and abandoning module MeshPaint (734)
+[2021.07.15-17.47.22:291][539]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (732)
+[2021.07.15-17.47.22:305][539]LogModuleManager: Shutting down and abandoning module FoliageEdit (730)
+[2021.07.15-17.47.22:320][539]LogModuleManager: Shutting down and abandoning module LandscapeEditor (728)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module MeshPaintMode (726)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (724)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module ActorPickerMode (722)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module PlacementMode (720)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module ViewportSnapping (718)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module ViewportInteraction (716)
+[2021.07.15-17.47.22:346][539]LogModuleManager: Shutting down and abandoning module ClothPainter (714)
+[2021.07.15-17.47.22:425][539]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (713)
+[2021.07.15-17.47.22:432][539]LogModuleManager: Shutting down and abandoning module LogVisualizer (710)
+[2021.07.15-17.47.22:453][539]LogModuleManager: Shutting down and abandoning module IntroTutorials (708)
+[2021.07.15-17.47.22:474][539]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (707)
+[2021.07.15-17.47.22:488][539]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (704)
+[2021.07.15-17.47.22:488][539]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (702)
+[2021.07.15-17.47.22:499][539]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (700)
+[2021.07.15-17.47.22:513][539]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (699)
+[2021.07.15-17.47.23:132][539]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (696)
+[2021.07.15-17.47.23:132][539]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (694)
+[2021.07.15-17.47.23:132][539]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (692)
+[2021.07.15-17.47.23:132][539]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (690)
+[2021.07.15-17.47.23:132][539]LogModuleManager: Shutting down and abandoning module TraceInsights (688)
+[2021.07.15-17.47.23:167][539]MemoryProfiler: Shutdown
+[2021.07.15-17.47.23:167][539]NetworkingProfiler: Shutdown
+[2021.07.15-17.47.23:167][539]LoadingProfiler: Shutdown
+[2021.07.15-17.47.23:174][539]TimingProfiler: Shutdown
+[2021.07.15-17.47.23:189][539]LogModuleManager: Shutting down and abandoning module TraceServices (687)
+[2021.07.15-17.47.23:207][539]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (684)
+[2021.07.15-17.47.23:207][539]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (682)
+[2021.07.15-17.47.23:207][539]LogModuleManager: Shutting down and abandoning module InputBindingEditor (680)
+[2021.07.15-17.47.23:220][539]LogModuleManager: Shutting down and abandoning module MergeActors (678)
+[2021.07.15-17.47.23:232][539]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (676)
+[2021.07.15-17.47.23:247][539]LogModuleManager: Shutting down and abandoning module LocalizationService (675)
+[2021.07.15-17.47.23:259][539]LogModuleManager: Shutting down and abandoning module HardwareTargeting (672)
+[2021.07.15-17.47.23:259][539]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (670)
+[2021.07.15-17.47.23:275][539]LogModuleManager: Shutting down and abandoning module UndoHistory (668)
+[2021.07.15-17.47.23:317][539]LogModuleManager: Shutting down and abandoning module XmlParser (666)
+[2021.07.15-17.47.23:322][539]LogModuleManager: Shutting down and abandoning module Blutility (664)
+[2021.07.15-17.47.23:322][539]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (662)
+[2021.07.15-17.47.23:322][539]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (661)
+[2021.07.15-17.47.23:322][539]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (658)
+[2021.07.15-17.47.23:322][539]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (657)
+[2021.07.15-17.47.23:337][539]LogModuleManager: Shutting down and abandoning module SettingsEditor (654)
+[2021.07.15-17.47.23:359][539]LogModuleManager: Shutting down and abandoning module ProjectLauncher (652)
+[2021.07.15-17.47.23:369][539]LogModuleManager: Shutting down and abandoning module SessionFrontend (650)
+[2021.07.15-17.47.23:380][539]LogModuleManager: Shutting down and abandoning module ProfilerClient (648)
+[2021.07.15-17.47.23:390][539]LogModuleManager: Shutting down and abandoning module DeviceManager (646)
+[2021.07.15-17.47.23:406][539]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (645)
+[2021.07.15-17.47.23:449][539]LogModuleManager: Shutting down and abandoning module AutomationController (642)
+[2021.07.15-17.47.23:465][539]LogModuleManager: Shutting down and abandoning module AutomationWindow (640)
+[2021.07.15-17.47.23:474][539]LogModuleManager: Shutting down and abandoning module Layers (638)
+[2021.07.15-17.47.23:488][539]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (636)
+[2021.07.15-17.47.23:489][539]LogModuleManager: Shutting down and abandoning module DetailCustomizations (634)
+[2021.07.15-17.47.23:502][539]LogModuleManager: Shutting down and abandoning module PackagesDialog (632)
+[2021.07.15-17.47.23:539][539]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (630)
+[2021.07.15-17.47.23:539][539]LogModuleManager: Shutting down and abandoning module Persona (628)
+[2021.07.15-17.47.23:539][539]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (627)
+[2021.07.15-17.47.23:539][539]LogModuleManager: Shutting down and abandoning module AnimGraph (625)
+[2021.07.15-17.47.23:552][539]LogModuleManager: Shutting down and abandoning module Kismet (622)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module KismetWidgets (621)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module GraphEditor (618)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module StructViewer (616)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module ClassViewer (614)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module Toolbox (612)
+[2021.07.15-17.47.23:588][539]LogModuleManager: Shutting down and abandoning module ModuleUI (610)
+[2021.07.15-17.47.23:601][539]LogModuleManager: Shutting down and abandoning module OutputLog (608)
+[2021.07.15-17.47.23:612][539]LogModuleManager: Shutting down and abandoning module GammaUI (606)
+[2021.07.15-17.47.23:619][539]LogModuleManager: Shutting down and abandoning module Documentation (604)
+[2021.07.15-17.47.23:619][539]LogModuleManager: Shutting down and abandoning module LiveCoding (602)
+[2021.07.15-17.47.23:639][539]LogModuleManager: Shutting down and abandoning module LevelSequence (600)
+[2021.07.15-17.47.23:649][539]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (598)
+[2021.07.15-17.47.23:649][539]LogModuleManager: Shutting down and abandoning module MovieScene (596)
+[2021.07.15-17.47.23:664][539]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (594)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module LauncherPlatform (592)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module AnalyticsET (590)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module PortalServices (588)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module PortalRpc (586)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module MessagingRpc (584)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (582)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module AudioMixerCore (581)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module AIModule (578)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module GameplayDebugger (577)
+[2021.07.15-17.47.23:682][539]LogModuleManager: Shutting down and abandoning module AITestSuite (575)
+[2021.07.15-17.47.23:691][539]LogModuleManager: Shutting down and abandoning module NavigationSystem (573)
+[2021.07.15-17.47.23:691][539]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (570)
+[2021.07.15-17.47.23:699][539]LogModuleManager: Shutting down and abandoning module ProfilerService (568)
+[2021.07.15-17.47.23:726][539]LogModuleManager: Shutting down and abandoning module TaskGraph (566)
+[2021.07.15-17.47.23:734][539]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (564)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module MegascansPlugin (562)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module SQLiteSupport (560)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module DatabaseSupport (558)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (556)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (554)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2021.07.15-17.47.23:735][539]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2021.07.15-17.47.23:746][539]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2021.07.15-17.47.23:746][539]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2021.07.15-17.47.23:798][539]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (544)
+[2021.07.15-17.47.23:798][539]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (542)
+[2021.07.15-17.47.23:806][539]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (540)
+[2021.07.15-17.47.23:806][539]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2021.07.15-17.47.23:816][539]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2021.07.15-17.47.23:816][539]LogModuleManager: Shutting down and abandoning module PluginBrowser (534)
+[2021.07.15-17.47.23:827][539]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (532)
+[2021.07.15-17.47.23:827][539]LogModuleManager: Shutting down and abandoning module EditableMesh (530)
+[2021.07.15-17.47.23:837][539]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (528)
+[2021.07.15-17.47.23:837][539]LogModuleManager: Shutting down and abandoning module CableComponent (526)
+[2021.07.15-17.47.23:837][539]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2021.07.15-17.47.23:837][539]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2021.07.15-17.47.23:837][539]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (521)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module AssetTags (518)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (516)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (512)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module AppleImageUtils (510)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (508)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module ScreenshotTools (506)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (504)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (502)
+[2021.07.15-17.47.23:851][539]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (500)
+[2021.07.15-17.47.23:865][539]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (498)
+[2021.07.15-17.47.23:865][539]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (496)
+[2021.07.15-17.47.23:874][539]LogModuleManager: Shutting down and abandoning module CurveEditorTools (494)
+[2021.07.15-17.47.23:899][539]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (492)
+[2021.07.15-17.47.23:899][539]LogModuleManager: Shutting down and abandoning module CryptoKeys (490)
+[2021.07.15-17.47.23:899][539]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (488)
+[2021.07.15-17.47.23:899][539]LogModuleManager: Shutting down and abandoning module MotoSynth (486)
+[2021.07.15-17.47.23:899][539]LogModuleManager: Shutting down and abandoning module MeshConversion (484)
+[2021.07.15-17.47.23:909][539]LogModuleManager: Shutting down and abandoning module DynamicMesh (482)
+[2021.07.15-17.47.23:924][539]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (480)
+[2021.07.15-17.47.23:935][539]LogModuleManager: Shutting down and abandoning module GeometricObjects (478)
+[2021.07.15-17.47.23:944][539]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (476)
+[2021.07.15-17.47.23:944][539]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (475)
+[2021.07.15-17.47.23:958][539]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (472)
+[2021.07.15-17.47.23:958][539]LogModuleManager: Shutting down and abandoning module ChaosNiagara (470)
+[2021.07.15-17.47.23:975][539]LogModuleManager: Shutting down and abandoning module FractureEditor (468)
+[2021.07.15-17.47.23:987][539]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2021.07.15-17.47.23:988][539]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (465)
+[2021.07.15-17.47.23:988][539]LogModuleManager: Shutting down and abandoning module BackChannel (462)
+[2021.07.15-17.47.23:995][539]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (460)
+[2021.07.15-17.47.23:995][539]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (458)
+[2021.07.15-17.47.23:995][539]LogModuleManager: Shutting down and abandoning module AutomationUtils (456)
+[2021.07.15-17.47.23:995][539]LogModuleManager: Shutting down and abandoning module AlembicImporter (454)
+[2021.07.15-17.47.24:068][539]LogModuleManager: Shutting down and abandoning module AlembicLibrary (453)
+[2021.07.15-17.47.24:068][539]LogModuleManager: Shutting down and abandoning module GeometryCache (452)
+[2021.07.15-17.47.24:068][539]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (451)
+[2021.07.15-17.47.24:068][539]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (446)
+[2021.07.15-17.47.24:068][539]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (444)
+[2021.07.15-17.47.24:078][539]LogModuleManager: Shutting down and abandoning module TemplateSequence (442)
+[2021.07.15-17.47.24:078][539]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (440)
+[2021.07.15-17.47.24:078][539]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (438)
+[2021.07.15-17.47.24:078][539]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (436)
+[2021.07.15-17.47.24:078][539]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (434)
+[2021.07.15-17.47.24:082][539]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (432)
+[2021.07.15-17.47.24:082][539]LogModuleManager: Shutting down and abandoning module MediaCompositing (430)
+[2021.07.15-17.47.24:082][539]LogModuleManager: Shutting down and abandoning module ImgMedia (428)
+[2021.07.15-17.47.24:082][539]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (426)
+[2021.07.15-17.47.24:089][539]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (424)
+[2021.07.15-17.47.24:089][539]LogModuleManager: Shutting down and abandoning module UObjectPlugin (422)
+[2021.07.15-17.47.24:089][539]LogModuleManager: Shutting down and abandoning module PluginUtils (420)
+[2021.07.15-17.47.24:092][539]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2021.07.15-17.47.24:100][539]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2021.07.15-17.47.24:101][539]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2021.07.15-17.47.24:110][539]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (412)
+[2021.07.15-17.47.24:155][539]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (410)
+[2021.07.15-17.47.24:168][539]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (408)
+[2021.07.15-17.47.24:168][539]LogModuleManager: Shutting down and abandoning module GitSourceControl (406)
+[2021.07.15-17.47.24:176][539]LogModuleManager: Shutting down and abandoning module SourceControl (405)
+[2021.07.15-17.47.24:184][539]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (402)
+[2021.07.15-17.47.24:184][539]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2021.07.15-17.47.24:184][539]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2021.07.15-17.47.24:199][539]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2021.07.15-17.47.24:227][539]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (394)
+[2021.07.15-17.47.24:227][539]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2021.07.15-17.47.24:241][539]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2021.07.15-17.47.24:290][539]LogModuleManager: Shutting down and abandoning module SQLiteCore (388)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (380)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (376)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2021.07.15-17.47.24:307][539]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2021.07.15-17.47.24:323][539]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2021.07.15-17.47.24:323][539]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (368)
+[2021.07.15-17.47.24:333][539]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (366)
+[2021.07.15-17.47.24:333][539]LogModuleManager: Shutting down and abandoning module FacialAnimation (364)
+[2021.07.15-17.47.24:333][539]LogModuleManager: Shutting down and abandoning module DataValidation (362)
+[2021.07.15-17.47.24:333][539]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (360)
+[2021.07.15-17.47.24:344][539]LogModuleManager: Shutting down and abandoning module LevelEditor (359)
+[2021.07.15-17.47.24:361][539]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (358)
+[2021.07.15-17.47.24:371][539]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (356)
+[2021.07.15-17.47.24:372][539]LogModuleManager: Shutting down and abandoning module MainFrame (354)
+[2021.07.15-17.47.24:384][539]LogModuleManager: Shutting down and abandoning module HotReload (353)
+[2021.07.15-17.47.24:398][539]LogModuleManager: Shutting down and abandoning module ToolMenus (349)
+[2021.07.15-17.47.24:398][539]LogModuleManager: Shutting down and abandoning module ContentBrowser (347)
+[2021.07.15-17.47.24:398][539]LogModuleManager: Shutting down and abandoning module ContentBrowserData (346)
+[2021.07.15-17.47.24:398][539]LogModuleManager: Shutting down and abandoning module TreeMap (343)
+[2021.07.15-17.47.24:398][539]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (340)
+[2021.07.15-17.47.24:419][539]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (338)
+[2021.07.15-17.47.24:419][539]LogModuleManager: Shutting down and abandoning module ActorSequence (336)
+[2021.07.15-17.47.24:419][539]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (334)
+[2021.07.15-17.47.24:419][539]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (332)
+[2021.07.15-17.47.24:419][539]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (330)
+[2021.07.15-17.47.24:426][539]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (328)
+[2021.07.15-17.47.24:443][539]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.07.15-17.47.24:443][539]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (326)
+[2021.07.15-17.47.24:443][539]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (324)
+[2021.07.15-17.47.24:443][539]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (322)
+[2021.07.15-17.47.24:447][539]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (320)
+[2021.07.15-17.47.24:447][539]LogModuleManager: Shutting down and abandoning module MagicLeapController (318)
+[2021.07.15-17.47.24:447][539]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.07.15-17.47.24:447][539]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (316)
+[2021.07.15-17.47.24:447][539]LogModuleManager: Shutting down and abandoning module MagicLeapAR (314)
+[2021.07.15-17.47.24:447][539]LogModuleManager: Shutting down and abandoning module AugmentedReality (313)
+[2021.07.15-17.47.24:459][539]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (310)
+[2021.07.15-17.47.24:459][539]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (308)
+[2021.07.15-17.47.24:459][539]LogModuleManager: Shutting down and abandoning module Niagara (306)
+[2021.07.15-17.47.24:487][539]LogModuleManager: Shutting down and abandoning module SignalProcessing (305)
+[2021.07.15-17.47.24:499][539]LogModuleManager: Shutting down and abandoning module NiagaraEditor (303)
+[2021.07.15-17.47.24:562][539]LogModuleManager: Shutting down and abandoning module NiagaraCore (300)
+[2021.07.15-17.47.24:563][539]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2021.07.15-17.47.24:563][539]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2021.07.15-17.47.24:663][539]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2021.07.15-17.47.24:785][539]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2021.07.15-17.47.24:785][539]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (290)
+[2021.07.15-17.47.24:785][539]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (288)
+[2021.07.15-17.47.24:802][539]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2021.07.15-17.47.24:817][539]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2021.07.15-17.47.24:828][539]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (282)
+[2021.07.15-17.47.24:828][539]LogModuleManager: Shutting down and abandoning module PacketHandler (280)
+[2021.07.15-17.47.24:828][539]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (278)
+[2021.07.15-17.47.24:828][539]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (276)
+[2021.07.15-17.47.24:852][539]LogModuleManager: Shutting down and abandoning module MediaAssets (274)
+[2021.07.15-17.47.24:852][539]LogModuleManager: Shutting down and abandoning module Overlay (272)
+[2021.07.15-17.47.24:852][539]LogModuleManager: Shutting down and abandoning module OverlayEditor (271)
+[2021.07.15-17.47.24:852][539]LogModuleManager: Shutting down and abandoning module VREditor (268)
+[2021.07.15-17.47.24:860][539]LogModuleManager: Shutting down and abandoning module StringTableEditor (266)
+[2021.07.15-17.47.24:879][539]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (264)
+[2021.07.15-17.47.24:879][539]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (262)
+[2021.07.15-17.47.24:879][539]LogModuleManager: Shutting down and abandoning module FunctionalTesting (260)
+[2021.07.15-17.47.24:897][539]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (258)
+[2021.07.15-17.47.24:912][539]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (257)
+[2021.07.15-17.47.24:912][539]LogModuleManager: Shutting down and abandoning module UMG (254)
+[2021.07.15-17.47.24:930][539]LogModuleManager: Shutting down and abandoning module UMGEditor (253)
+[2021.07.15-17.47.24:941][539]LogModuleManager: Shutting down and abandoning module MessageLog (251)
+[2021.07.15-17.47.24:941][539]LogModuleManager: Shutting down and abandoning module SlateReflector (246)
+[2021.07.15-17.47.24:971][539]LogModuleManager: Shutting down and abandoning module Slate (244)
+[2021.07.15-17.47.24:971][539]LogModuleManager: Shutting down and abandoning module SlateCore (242)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (240)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module UnrealEd (238)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module MRMesh (236)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (234)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (232)
+[2021.07.15-17.47.24:972][539]LogModuleManager: Shutting down and abandoning module XAudio2 (230)
+[2021.07.15-17.47.24:984][539]LogModuleManager: Shutting down and abandoning module Networking (228)
+[2021.07.15-17.47.24:984][539]LogModuleManager: Shutting down and abandoning module Core (226)
+[2021.07.15-17.47.24:984][539]LogModuleManager: Shutting down and abandoning module MaterialEditor (224)
+[2021.07.15-17.47.25:078][539]LogModuleManager: Shutting down and abandoning module MovieSceneTools (222)
+[2021.07.15-17.47.25:114][539]LogModuleManager: Shutting down and abandoning module CurveEditor (221)
+[2021.07.15-17.47.25:128][539]LogModuleManager: Shutting down and abandoning module Sequencer (219)
+[2021.07.15-17.47.25:141][539]LogModuleManager: Shutting down and abandoning module EditorStyle (218)
+[2021.07.15-17.47.25:156][539]LogModuleManager: Shutting down and abandoning module KismetCompiler (214)
+[2021.07.15-17.47.25:156][539]LogModuleManager: Shutting down and abandoning module MeshBuilder (212)
+[2021.07.15-17.47.25:172][539]LogModuleManager: Shutting down and abandoning module MeshUtilities (210)
+[2021.07.15-17.47.25:184][539]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (209)
+[2021.07.15-17.47.25:195][539]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (208)
+[2021.07.15-17.47.25:195][539]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (207)
+[2021.07.15-17.47.25:200][539]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (205)
+[2021.07.15-17.47.25:213][539]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (203)
+[2021.07.15-17.47.25:226][539]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (201)
+[2021.07.15-17.47.25:234][539]LogModuleManager: Shutting down and abandoning module MaterialBaking (197)
+[2021.07.15-17.47.25:249][539]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (192)
+[2021.07.15-17.47.25:249][539]LogModuleManager: Shutting down and abandoning module DerivedDataCache (190)
+[2021.07.15-17.47.25:267][539]LogModuleManager: Shutting down and abandoning module TargetPlatform (188)
+[2021.07.15-17.47.25:305][539]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (187)
+[2021.07.15-17.47.25:320][539]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (185)
+[2021.07.15-17.47.25:329][539]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (183)
+[2021.07.15-17.47.25:336][539]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (181)
+[2021.07.15-17.47.25:353][539]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2021.07.15-17.47.25:365][539]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (177)
+[2021.07.15-17.47.25:365][539]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (175)
+[2021.07.15-17.47.25:365][539]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (173)
+[2021.07.15-17.47.25:365][539]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (171)
+[2021.07.15-17.47.25:365][539]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (169)
+[2021.07.15-17.47.25:374][539]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (167)
+[2021.07.15-17.47.25:374][539]LogModuleManager: Shutting down and abandoning module ImageWrapper (166)
+[2021.07.15-17.47.25:374][539]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (163)
+[2021.07.15-17.47.25:380][539]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (161)
+[2021.07.15-17.47.25:380][539]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (159)
+[2021.07.15-17.47.25:385][539]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (157)
+[2021.07.15-17.47.25:385][539]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (155)
+[2021.07.15-17.47.25:386][539]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (153)
+[2021.07.15-17.47.25:386][539]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (151)
+[2021.07.15-17.47.25:386][539]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (149)
+[2021.07.15-17.47.25:396][539]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (147)
+[2021.07.15-17.47.25:396][539]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (145)
+[2021.07.15-17.47.25:396][539]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (143)
+[2021.07.15-17.47.25:396][539]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (141)
+[2021.07.15-17.47.25:397][539]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2021.07.15-17.47.25:415][539]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2021.07.15-17.47.25:440][539]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2021.07.15-17.47.25:440][539]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2021.07.15-17.47.25:449][539]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2021.07.15-17.47.25:478][539]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2021.07.15-17.47.25:479][539]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2021.07.15-17.47.25:479][539]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2021.07.15-17.47.25:479][539]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2021.07.15-17.47.25:480][539]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2021.07.15-17.47.25:480][539]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2021.07.15-17.47.25:496][539]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2021.07.15-17.47.25:496][539]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2021.07.15-17.47.25:508][539]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2021.07.15-17.47.25:551][539]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2021.07.15-17.47.25:566][539]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.07.15-17.47.25:566][539]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.07.15-17.47.25:566][539]LogModuleManager: Shutting down and abandoning module ChaosCloth (92)
+[2021.07.15-17.47.25:577][539]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.07.15-17.47.25:577][539]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.07.15-17.47.25:587][539]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.07.15-17.47.25:604][539]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.07.15-17.47.25:649][539]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.07.15-17.47.25:649][539]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.07.15-17.47.25:656][539]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5523D744-44AE-61D2-7105-8E92B295B626%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1db4e19d456d67a7cc00de92a8f4255d%7C3261ab7554e44091968f9b8520162072%7C44c07746-fbc4-4322-9237-55c450fc0afc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.07.15-17.47.25:656][539]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.07.15-17.47.25:691][539]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.07.15-17.47.25:694][539]LogModuleManager: Shutting down and abandoning module VariantManagerContent (72)
+[2021.07.15-17.47.25:694][539]LogModuleManager: Shutting down and abandoning module DatasmithContent (70)
+[2021.07.15-17.47.25:694][539]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2021.07.15-17.47.25:712][539]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2021.07.15-17.47.25:713][539]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2021.07.15-17.47.25:727][539]LogModuleManager: Shutting down and abandoning module Media (63)
+[2021.07.15-17.47.25:729][539]LogModuleManager: Shutting down and abandoning module MediaInfo (62)
+[2021.07.15-17.47.25:729][539]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (58)
+[2021.07.15-17.47.25:759][539]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.07.15-17.47.25:794][539]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.07.15-17.47.25:794][539]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.07.15-17.47.25:794][539]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.07.15-17.47.25:809][539]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.07.15-17.47.25:809][539]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.07.15-17.47.25:833][539]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.07.15-17.47.25:833][539]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.07.15-17.47.25:833][539]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.07.15-17.47.25:833][539]LogXGEController: Cleaning working directory: C:/Users/Oswal/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.07.15-17.47.25:833][539]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.07.15-17.47.25:843][539]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.07.15-17.47.25:859][539]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.07.15-17.47.25:860][539]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.07.15-17.47.25:860][539]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.07.15-17.47.25:860][539]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.07.15-17.47.25:860][539]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.07.15-17.47.25:882][539]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.07.15-17.47.25:896][539]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.07.15-17.47.25:897][539]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.07.15-17.47.25:907][539]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.07.15-17.47.25:907][539]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.07.15-17.47.25:907][539]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.07.15-17.47.25:907][539]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.07.15-17.47.25:915][539]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.07.15-17.47.25:915][539]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.07.15-17.47.25:924][539]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.07.15-17.47.25:936][539]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.07.15-17.47.25:936][539]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.07.15-17.47.25:950][539]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.15-17.47.25:954][539]LogD3D11RHI: Shutdown
+[2021.07.15-17.47.25:954][539]LogD3D11RHI: CleanupD3DDevice
+[2021.07.15-17.47.26:062][539]LogExit: Exiting.
+[2021.07.15-17.47.26:089][539]Log file closed, 07/15/21 12:47:26
