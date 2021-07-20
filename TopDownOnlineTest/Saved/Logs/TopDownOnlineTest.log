@@ -25198,3 +25198,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.20-04.14.32:582][538]LogSavePackage: Moving '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap023C7E5F4E17A99245306F83C37176BF.tmp' to '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
 [2021.07.20-04.14.32:602][538]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2021.07.20-04.14.32:602][538]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.20-04.19.02:754][742]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.20-04.19.02:754][742]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.20-04.19.04:535][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.07.20-04.19.04:564][889]LogSavePackage: Moving '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap3AD4CE134721BED74CD57683F5CC8F0F.tmp' to '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.20-04.19.04:584][889]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.20-04.19.04:584][889]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.20-04.19.06:095][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.07.20-04.19.06:117][ 51]LogSavePackage: Moving '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMapA33899C242E3349036F053854802B685.tmp' to '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Content/Masters/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.20-04.19.06:137][ 51]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.20-04.19.06:137][ 51]LogContentValidation: Display: Validating World /Game/Masters/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.20-04.19.08:976][377]BlueprintLog: New page: Compile PlayerHealth
+[2021.07.20-04.19.09:042][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.20-04.19.09:047][377]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_24:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.20-04.19.09:048][377]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_5
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.20-04.19.09:053][377]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_24:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.20-04.19.09:054][377]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	TopDownCharacter_C /Engine/Transient.World_23:PersistentLevel.TopDownCharacter_C_5
+	Function /Game/Masters/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:UserConstructionScript:0037
+[2021.07.20-04.19.09:075][377]LogSavePackage: Moving '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Saved/PlayerHealth2EF285CA41B4D884BB210F82431224F1.tmp' to '../../../../../../Desktop/Unreal 6to parcial/SpaceTerrorTopDown/TopDownOnlineTest/Content/_CARPETAS_DE_DESARROLLO/Andre/PlayerHealth.uasset'
+[2021.07.20-04.19.09:084][377]AssetCheck: New page: Asset Save: PlayerHealth
+[2021.07.20-04.19.09:084][377]LogContentValidation: Display: Validating WidgetBlueprint /Game/_CARPETAS_DE_DESARROLLO/Andre/PlayerHealth.PlayerHealth
+[2021.07.20-04.19.13:372][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
