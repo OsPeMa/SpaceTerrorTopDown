@@ -25204,3 +25204,17 @@ Script call stack:
 [2021.07.21-00.37.29:339][693]LogDeviceProfile: Device profile begin destroy: [000001673C859100] Lumin
 [2021.07.21-00.37.29:354][693]LogDeviceProfile: Device profile begin destroy: [000001673E3BB700] Lumin_Desktop
 [2021.07.21-00.37.29:354][693]LogDeviceProfile: Device profile begin destroy: [000001673D5E5300] HoloLens
+[2021.07.21-00.37.34:045][693]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:239][693]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:240][693]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:241][693]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:242][693]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:243][693]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:282][693]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:285][693]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:286][693]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:288][693]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.34:289][693]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-00.37.41:129][693]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.21-00.37.43:634][693]LogExit: Editor shut down
+[2021.07.21-00.37.44:034][693]LogExit: Transaction tracking system shut down
