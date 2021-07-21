@@ -21619,3 +21619,18 @@ Script call stack:
 [2021.07.21-00.06.27:102][611]LogPlayLevel: Display: Destroying online subsystem :Context_68
 [2021.07.21-00.06.46:927][559]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.Enemy
 [2021.07.21-00.07.35:067][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/EnemyAIController.EnemyAIController
+[2021.07.21-00.08.39:512][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.07.21-00.08.39:928][ 37]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownExampleMap_Auto76A10D527476F3CD247386697C0301D85.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Maps/TopDownExampleMap_Auto7.umap'
+[2021.07.21-00.08.40:029][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Masters/TopDownBP/Maps/TopDownExampleMap' took 0.553
+[2021.07.21-00.08.40:029][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.553
+[2021.07.21-00.08.40:090][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy] ([1] browsable assets)...
+[2021.07.21-00.08.40:101][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy.Enemy]
+[2021.07.21-00.08.40:101][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy]
+[2021.07.21-00.08.40:178][ 37]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Enemy_Auto7E76A39B940E6FF7928DB8C80283CA9DF.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/MGNV/DiegoYHector/Enemy/Blueprints/Enemy_Auto7.uasset'
+[2021.07.21-00.08.40:179][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Masters/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2021.07.21-00.08.40:179][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Masters/TopDownBP/Blueprints/TopDownController]
+[2021.07.21-00.08.40:206][ 37]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/TopDownController_Auto7AB0AB1D945C5D86DB6E0AF84A39E5695.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/Masters/TopDownBP/Blueprints/TopDownController_Auto7.uasset'
+[2021.07.21-00.08.40:206][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CARPETAS_DE_DESARROLLO/Andre/PlayerHealth] ([1] browsable assets)...
+[2021.07.21-00.08.40:206][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CARPETAS_DE_DESARROLLO/Andre/PlayerHealth]
+[2021.07.21-00.08.40:264][ 37]LogSavePackage: Moving '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/PlayerHealth_Auto71CD2B9E743232B2E6BF65CA383B6FECE.tmp' to '../../../../Unreal Projects/SpaceTerrorTopDown/TopDownOnlineTest/Saved/Autosaves/Game/_CARPETAS_DE_DESARROLLO/Andre/PlayerHealth_Auto7.uasset'
+[2021.07.21-00.08.40:264][ 37]LogFileHelpers: Auto-saving content packages took 0.235
